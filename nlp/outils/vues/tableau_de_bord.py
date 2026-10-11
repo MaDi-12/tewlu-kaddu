@@ -26,7 +26,13 @@ MOIS_FR = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "ao
 RELANCE_JOURS = 7                       # un crédit non remboursé depuis plus de 7 jours est « à relancer »
 
 C.style()
-C.entete("Tableau de bord du commerçant", "Ce que la boutique a vendu, ce qu'on lui doit, et qui relancer.")
+_titre, _aide = st.columns([4, 1.25], vertical_alignment="center")
+with _titre:
+    C.entete("Tableau de bord du commerçant", "Ce que la boutique a vendu, ce qu'on lui doit, et qui relancer.")
+with _aide:
+    if st.button("🔊 Comment ça marche ?", key="tb_guide_btn", type="primary", use_container_width=True,
+                 help="Kaddu explique la page à voix haute, dans la langue choisie (case « Langue de Kaddu »)."):
+        st.session_state["tb_guide"] = not st.session_state.get("tb_guide", False)
 
 
 # ---------------------------------------------------------------------------
@@ -96,6 +102,40 @@ def ecouter(texte: str, langue: str, cle: str, libelle: str = "🔊 Écouter") -
             st.caption(f"🔇 {e}")
 
 
+GUIDE_CSV = C.NLP / "data" / "atlas" / "guide_vocal.csv"
+
+
+def phrase_guide(cle: str, langue: str, **valeurs) -> tuple[str, str, str]:
+    """Phrase du guide vocal (guide_vocal.csv) dans la langue, sinon en wolof : (texte, langue, statut)."""
+    lignes = {r["cle"]: r for r in C.lire_csv(GUIDE_CSV)}
+    r = lignes.get(cle, {})
+    for l in (langue, "wo"):
+        if (r.get(l) or "").strip():
+            texte = r[l].strip()
+            for k, v in valeurs.items():
+                texte = texte.replace("{" + k + "}", str(v))
+            return texte, l, r.get("statut", "")
+    return "", langue, ""
+
+
+@st.cache_data(show_spinner=False, max_entries=20)
+def audio_enchaine(textes: tuple[str, ...], voix: str) -> bytes:
+    """Lit plusieurs phrases à la suite (une synthèse par phrase, puis un seul fichier WAV)."""
+    import io
+    import wave
+    morceaux = [C.tts_audio(t, voix) for t in textes if t]
+    sortie, params = io.BytesIO(), None
+    with wave.open(sortie, "wb") as w:
+        for m in morceaux:
+            with wave.open(io.BytesIO(m)) as r:
+                if params is None:
+                    params = r.getparams()
+                    w.setparams(params)
+                w.writeframes(r.readframes(r.getnframes()))
+                w.writeframes(b"\x00" * int(params.framerate * params.sampwidth * 0.35))   # petite pause
+    return sortie.getvalue()
+
+
 def graphique(chart) -> None:
     """Graphique Altair aux couleurs de l'interface (fond transparent, texte gris clair)."""
     chart = chart.configure(background="transparent").configure_view(strokeWidth=0) \
@@ -113,8 +153,10 @@ h1, h2 = st.columns([1.2, 1])
 noms = list(carnets)
 if st.session_state.get("tb_carnet") not in noms:
     st.session_state.pop("tb_carnet", None)
-if "tb_carnet" not in st.session_state and "Carnet de démonstration" in noms:
-    st.session_state["tb_carnet"] = "Carnet de démonstration"
+if "tb_carnet" not in st.session_state:              # par défaut : tout ce qui a été dit (test + Telegram)
+    tous = C.lire_operations(*carnets[C.TOUS_LES_CARNETS])
+    st.session_state["tb_carnet"] = (C.TOUS_LES_CARNETS if tous or "Carnet de démonstration" not in noms
+                                     else "Carnet de démonstration")
 nom_carnet = h1.selectbox("Carnet", noms, key="tb_carnet")
 langue_choisie = h2.selectbox("Langue de Kaddu", list(LANGUES), format_func=lambda l: LANGUES[l]["nom"],
                               key="tb_langue")
@@ -138,6 +180,28 @@ if st.session_state.pop("tb_demo_fait", None):
 if langue_choisie != L:
     st.caption(f"ℹ️ En {LANGUES[langue_choisie]['nom']}, Kaddu répond en {LANGUES[L]['nom']} "
                "(phrases et voix), comme sur WhatsApp.")
+
+# --- Guide vocal : Kaddu explique la page, dans la langue du commerçant
+if st.session_state.get("tb_guide"):
+    with st.container(border=True):
+        st.markdown('<div class="k-carte-titre">🔊 Comment utiliser ce tableau de bord</div>', unsafe_allow_html=True)
+        cles = [f"guide_{i}" for i in range(1, 9)]
+        phrases = [phrase_guide(c, L) for c in cles]
+        textes = tuple(t for t, _, _ in phrases if t)
+        langue_guide = phrases[0][1] if phrases else "wo"
+        try:
+            with st.spinner("Kaddu prépare l'explication..."):
+                C.lecteur(audio_enchaine(textes, LANGUES[langue_guide]["voix"]), autoplay=True)
+        except RuntimeError as e:
+            st.caption(f"🔇 {e}")
+        francais = [phrase_guide(c, "fr")[0] for c in cles]
+        for num, (t, fr) in enumerate(zip(textes, francais), 1):
+            st.markdown(f"**{num}.** {t}  \n<span class='k-gris'>{fr}</span>", unsafe_allow_html=True)
+        if langue_guide != L:
+            st.caption(f"Pas encore d'explication en {LANGUES[L]['nom'].lower()} : elle est dite en wolof.")
+        if st.button("Fermer l'explication", key="tb_guide_fermer"):
+            st.session_state["tb_guide"] = False
+            st.rerun()
 
 operations = C.lire_operations(*carnets[nom_carnet])
 if not operations:
@@ -292,9 +356,23 @@ with st.container(border=True):
             ecouter(t, L, "tb_ec_top", f"🔊 Combien me doit {c['nom']}")
         else:
             st.markdown("Personne ne te doit rien. 🎉")
-    if periode not in ("Aujourd'hui",):
-        st.caption("Le bilan lu à voix haute porte sur aujourd'hui : il n'y a pas encore de phrase validée pour une "
-                   "semaine ou un mois. Les chiffres de la période sont au-dessus et dans les graphiques.")
+    # Résumés lus pour la semaine et le mois, quelle que soit la période choisie plus haut
+    st.markdown('<div class="k-sous" style="margin-top:.6rem">Mes ventes sur une période</div>',
+                unsafe_allow_html=True)
+    b1, b2, b3 = st.columns(3)
+    for col, cle_p, debut_p, cle_b in ((b1, "periode_aujourdhui", aujourd_hui, "tb_ec_r1"),
+                                       (b2, "periode_7j", aujourd_hui - timedelta(days=6), "tb_ec_r7"),
+                                       (b3, "periode_mois", aujourd_hui.replace(day=1), "tb_ec_rm")):
+        ops_p = [o for o in actives if debut_p <= jour(o) <= aujourd_hui]
+        nom_p, lp, _ = phrase_guide(cle_p, L)
+        t, lp, _ = phrase_guide("resume_periode", lp, periode=nom_p,
+                                ventes=_montant(somme(ops_p, "vente", "vente_credit"), lp),
+                                encaisse=_montant(somme(ops_p, "vente") + somme(ops_p, "remboursement"), lp))
+        with col:
+            st.markdown(t)
+            ecouter(t, lp, cle_b, "🔊 " + phrase_guide(cle_p, "fr")[0])
+    st.caption("Les phrases de résumé par période et du guide vocal sont des brouillons en cours de validation "
+               "par la linguiste du projet ; les autres phrases sont validées.")
 
 # ---------------------------------------------------------------------------
 # Graphiques
@@ -490,5 +568,6 @@ with t_journal:
               "montant": C.francs(mt(o)) if o.get("montant_fcfa") is not None else "—",
               "produits": ", ".join(article(a) for a in o.get("articles", [])),
               "langue": LANGUES.get(o.get("langue"), {}).get("nom", o.get("langue")),
+              **({"carnet": o["carnet"]} if o.get("carnet") else {}),
               "ce qui a été dit": o.get("transcription") or ""}
              for o in sorted(liste, key=lambda o: o.get("date") or "", reverse=True)])

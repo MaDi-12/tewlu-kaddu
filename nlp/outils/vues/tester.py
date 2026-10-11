@@ -123,6 +123,10 @@ def envoyer(texte: str, source: str = "texte", audio_commercant: bytes | None = 
             ss.t_conv = Conversation.depuis_dict(sauvegarde, base, file_termes, sessions)
         return
     ss.t_conv = conv
+    if conv.etat == "termine":                 # conversation finie : archivée pour la « Revue des conversations »
+        archive = (C.ARCHIVES_CONVERSATIONS["Espace de test de l'équipe"] if carnet == "equipe"
+                   else C.ARCHIVES_CONVERSATIONS["Base de test de Marème"])
+        C.archiver_conversation(conv.vers_dict(), archive, f"page_test/{conv.source}")
     if audio_commercant:
         ss.t_audios[(ss.t_n, len(conv.historique) - 2)] = audio_commercant
     ss.t_jouer = (ss.t_n, len(conv.historique) - 1) if lecture_auto else None

@@ -1,0 +1,13 @@
+cle,usage,fr,wo,ff,srr,statut
+periode_aujourdhui,Nom de la période (début de phrase),Aujourd'hui,Tey,,,brouillon à valider par Ndèye
+periode_7j,Nom de la période (début de phrase),Ces sept derniers jours,Ci juróom-ñaari fan yii weesu,,,brouillon à valider par Ndèye
+periode_mois,Nom de la période (début de phrase),Ce mois-ci,Ci weer wii,,,brouillon à valider par Ndèye
+resume_periode,Résumé lu par les boutons Aujourd'hui / 7 jours / Ce mois,"{periode}, tu as vendu pour {ventes}. L'argent rentré dans ta caisse est de {encaisse}.","{periode}, danga jaay lu toolok {ventes}. Xaalis bi dugg ci sa kees mu ngi toolok {encaisse}.",,,brouillon à valider par Ndèye
+guide_1,Guide vocal du tableau de bord,Bienvenue sur ton tableau de bord. Je vais t'expliquer comment l'utiliser.,Dalal ak jàmm ci sa tablo. Dinaa la won naka ngay jëfandikoo.,,,brouillon à valider par Ndèye
+guide_2,Guide vocal du tableau de bord,"Tout en haut, choisis la période : aujourd'hui, hier, sept jours, trente jours ou ce mois.","Ci kaw, tànnal jamono ji : tey, démb, juróom-ñaari fan, fanweeri fan, walla weer wii.",,,brouillon à valider par Ndèye
+guide_3,Guide vocal du tableau de bord,"Les quatre grands chiffres te disent ce que tu as vendu, l'argent rentré dans ta caisse, ce qu'on te doit, et combien de ventes tu as faites.","Ñeenti lim yu mag yi dañu lay wax li nga jaay, xaalis bi dugg ci sa kees, bor yi ñu la ameel, ak ñaata yoon nga jaay.",,,brouillon à valider par Ndèye
+guide_4,Guide vocal du tableau de bord,"Appuie sur les boutons avec le haut-parleur : je te lis tes chiffres à voix haute, dans ta langue.","Bësal ci butoŋ yi am haut-parleur bi, dinaa la jàngal say lim ci sa làkk.",,,brouillon à valider par Ndèye
+guide_5,Guide vocal du tableau de bord,"Plus bas, les graphiques montrent tes ventes de chaque jour : le bleu, c'est l'argent payé tout de suite, le violet, c'est le crédit.","Ci suuf, nataal yi dañu lay won sa njaay bés bu nekk : bu bleu bi mooy xaalis bu ñu la fey ci saa si, bu violet bi mooy bor.",,,brouillon à valider par Ndèye
+guide_6,Guide vocal du tableau de bord,"Dans l'onglet Clients, appuie sur un nom pour voir ce que ce client te doit.","Ci « Clients », bësal ci tur wi ngir gis li kiliyan bi la ameel.",,,brouillon à valider par Ndèye
+guide_7,Guide vocal du tableau de bord,L'onglet À relancer te montre les clients qui n'ont rien remboursé depuis une semaine.,« À relancer » day won kiliyan yi feyuñu dara ci benn ayu-bés.,,,brouillon à valider par Ndèye
+guide_8,Guide vocal du tableau de bord,"Pour changer de langue, choisis-la dans la case Langue, en haut à droite.","Ngir soppi làkk, tànnal ko ci « Langue », ci kaw ci sa ndijoor.",,,brouillon à valider par Ndèye

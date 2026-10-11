@@ -35,11 +35,12 @@ sys.path.insert(0, str(NLP))
 sys.path.insert(0, str(NLP / "outils"))
 
 from kaddu import Kaddu  # noqa: E402
-from pipeline import ASR_MODELE, LANGUES  # noqa: E402
+from pipeline import ASR_MODELE, LANGUE_REPONSE, LANGUES  # noqa: E402
 
 API_MODELES = os.environ.get("KADDU_API", "http://localhost:8000")
 DOSSIER = NLP / "data" / "telegram"
 FICHIER_LANGUES = DOSSIER / "langues_telegram.json"
+ARCHIVE = DOSSIER / "conversations.jsonl"          # lue par la page « Revue des conversations »
 COMMANDES_LANGUE = {"wolof": "wo", "pulaar": "ff", "peul": "ff", "seereer": "srr", "serer": "srr", "sérère": "srr"}
 CLAVIER = {"keyboard": [[{"text": "Wolof"}, {"text": "Pulaar"}, {"text": "Seereer"}]],
            "resize_keyboard": True, "is_persistent": True}
@@ -133,8 +134,28 @@ def ecrire_langues(langues: dict) -> None:
     FICHIER_LANGUES.write_text(json.dumps(langues, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+def archiver(kaddu: Kaddu, numero: str) -> None:
+    """Conversation terminée : on l'ajoute à l'archive (messages, réponses, ce que le LLM a compris)."""
+    try:
+        d = json.loads(kaddu._chemin_conversation(numero).read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return
+    extraction = d.get("extraction") or {}
+    ligne = {"id": f"{numero}-{d.get('debut')}", "debut": d.get("debut"),
+             "fin": time.strftime("%Y-%m-%dT%H:%M:%S"), "source": "telegram", "langue": d.get("langue"),
+             "langue_reponse": LANGUE_REPONSE.get(d.get("langue"), d.get("langue")), "modele": d.get("modele"),
+             "issue": d.get("issue"), "intention": extraction.get("intention"),
+             "nb_corrections": d.get("nb_corrections"), "nb_complements": d.get("nb_complements"),
+             "duree_llm_s": round(d.get("duree_llm") or 0, 1), "operation_id": d.get("operation_id"),
+             "historique": d.get("historique", [])}
+    with open(ARCHIVE, "a", encoding="utf-8") as f:
+        f.write(json.dumps(ligne, ensure_ascii=False, default=str) + "\n")
+
+
 def repondre(tg: Telegram, kaddu: Kaddu, chat: int, texte: str, langue: str) -> None:
     r = kaddu.traiter(f"tg{chat}", texte, langue, source="telegram")
+    if r["termine"]:
+        archiver(kaddu, f"tg{chat}")
     tg.ecrire(chat, r["reponse"])
     tg.en_train(chat, "record_voice")
     try:

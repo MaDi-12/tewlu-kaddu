@@ -32,26 +32,59 @@ EQUIPE_DEMO = EQUIPE / "carnet_demo.db"          # carnet de démonstration (out
 ARCHIVES_CONVERSATIONS = {
     "Espace de test de l'équipe": EQUIPE / "conversations_equipe.jsonl",
     "Base de test de Marème": DATA / "conversations_test.jsonl",
+    "Telegram (bot)": DATA / "telegram" / "conversations.jsonl",
     "WhatsApp / Telegram (Kaddu)": DATA / "whatsapp" / "conversations.jsonl",
 }
+TOUS_LES_CARNETS = "Tous les carnets (page de test + Telegram + WhatsApp)"
+
+
+def archiver_conversation(d: dict, chemin: Path, source: str) -> None:
+    """Ajoute une conversation terminée (dictionnaire Conversation.vers_dict()) à une archive JSONL,
+    au format lu par la page « Revue des conversations »."""
+    import json
+    from datetime import datetime
+    from pipeline import LANGUE_REPONSE
+    extraction = d.get("extraction") or {}
+    ligne = {"id": f"{source}-{d.get('debut')}", "debut": d.get("debut"),
+             "fin": datetime.now().isoformat(timespec="seconds"), "source": source, "langue": d.get("langue"),
+             "langue_reponse": LANGUE_REPONSE.get(d.get("langue"), d.get("langue")), "modele": d.get("modele"),
+             "issue": d.get("issue"), "intention": extraction.get("intention"),
+             "nb_corrections": d.get("nb_corrections"), "nb_complements": d.get("nb_complements"),
+             "duree_llm_s": round(d.get("duree_llm") or 0, 1), "operation_id": d.get("operation_id"),
+             "historique": d.get("historique", [])}
+    chemin.parent.mkdir(parents=True, exist_ok=True)
+    with open(chemin, "a", encoding="utf-8") as f:
+        f.write(json.dumps(ligne, ensure_ascii=False, default=str) + "\n")
 
 
 def carnets_disponibles() -> dict:
     """Carnets lisibles par le tableau de bord : {nom affiché: (type, chemin)}."""
     from pipeline import BASE_TEST
-    carnets = {"Carnet de l'équipe": ("sqlite", EQUIPE_CARNET), "Base de test de Marème": ("sqlite", BASE_TEST)}
+    carnets = {TOUS_LES_CARNETS: ("tous", None),
+               "Carnet de l'équipe": ("sqlite", EQUIPE_CARNET), "Base de test de Marème": ("sqlite", BASE_TEST)}
     if EQUIPE_DEMO.exists():
         carnets["Carnet de démonstration"] = ("sqlite", EQUIPE_DEMO)
-    dossier = DATA / "whatsapp" / "commercants"
-    if dossier.exists():
-        for f in sorted(dossier.iterdir()):
-            if f.suffix in (".json", ".db"):
-                carnets[f"Commerçant {f.stem}"] = ("json" if f.suffix == ".json" else "sqlite", f)
+    for canal, nom in (("telegram", "Telegram"), ("whatsapp", "WhatsApp")):   # carnets des messageries
+        dossier = DATA / canal / "commercants"
+        if dossier.exists():
+            for f in sorted(dossier.iterdir(), key=lambda f: f.stat().st_mtime, reverse=True):
+                if f.suffix in (".json", ".db"):
+                    carnets[f"{nom} · {f.stem}"] = ("json" if f.suffix == ".json" else "sqlite", f)
     return carnets
 
 
 def lire_operations(type_carnet: str, chemin: Path) -> list[dict]:
-    """Toutes les opérations d'un carnet (actives et annulées), avec leurs articles, au même format."""
+    """Toutes les opérations d'un carnet (actives et annulées), avec leurs articles, au même format.
+    type_carnet « tous » : le carnet de la page de test et tous les carnets Telegram et WhatsApp réunis
+    (champ « carnet » ajouté à chaque opération pour savoir d'où elle vient)."""
+    if type_carnet == "tous":
+        reunies = []
+        for nom, (t, c) in carnets_disponibles().items():
+            if t != "tous" and (nom == "Carnet de l'équipe" or nom.startswith(("Telegram", "WhatsApp"))):
+                for o in lire_operations(t, c):
+                    o["carnet"] = nom
+                    reunies.append(o)
+        return sorted(reunies, key=lambda o: o.get("date") or "")
     if not chemin.exists():
         return []
     if type_carnet == "json":

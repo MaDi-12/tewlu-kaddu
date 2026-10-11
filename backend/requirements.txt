@@ -1,0 +1,22 @@
+# Python 3.11 (Coqui TTS 0.19 requires < 3.12)
+# TTS 0.19.0 pins transformers==4.33, too old for whisper-large-v3: install with
+#   echo "transformers==4.46.3" > override.txt && uv pip install --override override.txt -r requirements.txt
+TTS==0.19.0
+transformers==4.46.3
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+librosa
+soundfile
+
+# Pipeline WhatsApp (webhook, téléchargement média, envoi des réponses)
+httpx
+
+# Bilan vocal automatique du soir (job cron en arrière-plan)
+apscheduler
+
+# Couche Kaddu de Marème (nlp/kaddu.py) : LLM via OpenRouter, lecture des nombres
+openai
+num2words
+text2num<3

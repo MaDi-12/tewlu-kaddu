@@ -1,0 +1,274 @@
+concept,categorie,langue,forme,variantes,source,statut
+Vendre,intention,wo,Jaay,jaaye ; jaay ko,ndeye_maguette_officiel,validé
+Vendre,intention,ff,Yeeyde,yeey ; yeeyugo,ndeye_maguette_officiel,validé
+Vendre,intention,srr,jikwa,jikou ; A thika,ndeye_maguette_officiel,validé
+Acheter (stock),intention,wo,Jënd,jeund ; jënd ko,ndeye_maguette_officiel,validé
+Acheter (stock),intention,ff,Soodi,sood ; soodde,ndeye_maguette_officiel,validé
+Acheter (stock),intention,srr,jik,méhé jika,ndeye_maguette_officiel,validé
+Prendre (client),intention,wo,Jël,jeul ; jëloon,ndeye_maguette_officiel,validé
+Prendre (client),intention,ff,jetou,bamde ; ɓam ; hooyde,ndeye_maguette_officiel,validé
+Prendre (client),intention,srr,raw,rawnam ; kam bougo rawa,ndeye_maguette_officiel,validé
+Payer,intention,wo,Fey,faye ; fay,ndeye_maguette_officiel,validé
+Payer,intention,ff,Yoɓde,yobde ; yoɓ,ndeye_maguette_officiel,validé
+Payer,intention,srr,A rabda,rabit,ndeye_maguette_officiel,validé
+Rembourser,intention,wo,Deloosi,deloosi bor ; fey bor bi,ndeye_maguette_officiel,validé
+Rembourser,intention,ff,yoɓde,yoɓtude ; yobandé,ndeye_maguette_officiel,validé
+Rembourser,intention,srr,rabit,,ndeye_maguette_officiel,validé
+Crédit / dette,paiement,wo,Bor,boor,ndeye_maguette_officiel,validé
+Crédit / dette,paiement,ff,Ñamandé,Ñamaale,ndeye_maguette_officiel,validé
+Crédit / dette,paiement,srr,Lad né,Lat,ndeye_maguette_officiel,validé
+Il / elle me doit,paiement,wo,Dafa am bor,da ma am bor ; dafa ma bor,ndeye_maguette_officiel,validé
+Il / elle me doit,paiement,ff,Omo joguini kam ñamandé,joguini kam ñamandé,ndeye_maguette_officiel,validé
+Il / elle me doit,paiement,srr,sakhane,a sakhanahamo,ndeye_maguette_officiel,validé
+Prêter,intention,wo,Lébal,abal ; lébale,ndeye_maguette_officiel,validé
+Prêter,intention,ff,Ñamlude,nyamlude ; wulde,ndeye_maguette_officiel,validé
+Prêter,intention,srr,raw,rawa,ndeye_maguette_officiel,validé
+Emprunter,intention,wo,Lébe,abu ; leebu,ndeye_maguette_officiel,validé
+Emprunter,intention,ff,Ñamlude,,ndeye_maguette_officiel,validé
+Emprunter,intention,srr,rawou,ka rawine,ndeye_maguette_officiel,validé
+Donner,intention,wo,Jox,diox ; jox ma,ndeye_maguette_officiel,validé
+Donner,intention,ff,totti,rokkimo,ndeye_maguette_officiel,validé
+Donner,intention,srr,thioohe,thiohaam ; thiohanoum,ndeye_maguette_officiel,validé
+Envoyer (argent),intention,wo,Yónnee,yonnee ; yónne,ndeye_maguette_officiel,validé
+Envoyer (argent),intention,ff,Neldi,nelde ; nouldi ; neldimo,ndeye_maguette_officiel,validé
+Envoyer (argent),intention,srr,Ɓol,bol ; ɓool,ndeye_maguette_officiel,validé
+Recevoir,intention,wo,Jot,jota ; jot naa,ndeye_maguette_officiel,validé
+Recevoir,intention,ff,Heɓbe,hebde ; heɓ ; mi hebi,ndeye_maguette_officiel,validé
+Recevoir,intention,srr,dawou,dawaanoum,ndeye_maguette_officiel,validé
+Annuler,intention,wo,Neenal,fomm ; bàyyi ; bayi,ndeye_maguette_officiel,validé
+Annuler,intention,ff,haayti,haaytinde ; accude ; haytudé,ndeye_maguette_officiel,validé
+Annuler,intention,srr,hadjé,Hadjanoum,ndeye_maguette_officiel,validé
+Argent,paiement,wo,Xaalis,khaliss ; xalis,ndeye_maguette_officiel,validé
+Argent,paiement,ff,Kaalis,kaalisi,ndeye_maguette_officiel,validé
+Argent,paiement,srr,Xaalis,khalis,ndeye_maguette_officiel,validé
+Monnaie (rendue),paiement,wo,Wecit,wethiet ; weccit,ndeye_maguette_officiel,validé
+Monnaie (rendue),paiement,ff,Ruttude,mbuudi,ndeye_maguette_officiel,validé
+Monnaie (rendue),paiement,srr,Wecit,wecitu,ndeye_maguette_officiel,validé
+Reste,paiement,wo,Desit,li des ; des,ndeye_maguette_officiel,validé
+Reste,paiement,ff,hedo,ko heddii ; keddal ; keddo ; kedde,ndeye_maguette_officiel,validé
+Reste,paiement,srr,O desit,desit ; ko desu,ndeye_maguette_officiel,validé
+Tout / total,paiement,wo,Lépp,lep ; lépp yépp,ndeye_maguette_officiel,validé
+Tout / total,paiement,ff,Fof,fop ; fow,ndeye_maguette_officiel,validé
+Tout / total,paiement,srr,We fop,fop ; foop,ndeye_maguette_officiel,validé
+Bénéfice,paiement,wo,Ñaŋ,Njarñu ; njarnyu ; beneefis ; tonaar,ndeye_maguette_officiel,validé
+Bénéfice,paiement,ff,Tonaari,heɓo,ndeye_maguette_officiel,validé
+Bénéfice,paiement,srr,O ñaŋ,o njargnu ; o gnang,ndeye_maguette_officiel,validé
+Riz,produit,wo,Ceeb,thieb ; tieb,ndeye_maguette_officiel,validé
+Riz,produit,ff,Maaro,,ndeye_maguette_officiel,validé
+Riz,produit,srr,Maalo,mal,ndeye_maguette_officiel,validé
+Sucre,produit,wo,Sikir,sukar ; suukir,ndeye_maguette_officiel,validé
+Sucre,produit,ff,Sukara,sukar ; sukkara,ndeye_maguette_officiel,validé
+Sucre,produit,srr,Sikir,sukar,ndeye_maguette_officiel,validé
+Huile,produit,wo,Diw,diwu tìr ; diwlin,ndeye_maguette_officiel,validé
+Huile,produit,ff,Nebam,neɓam ; nebam tiri,ndeye_maguette_officiel,validé
+Huile,produit,srr,diwline,diw,ndeye_maguette_officiel,validé
+Lait,produit,wo,Meew,Sow ; sow,ndeye_maguette_officiel,validé
+Lait,produit,ff,Kosam biraadam,biraaɗam ; kosam,ndeye_maguette_officiel,validé
+Lait,produit,srr,Fo sis,,ndeye_maguette_officiel,validé
+Pain,produit,wo,Mburu,mbourou,ndeye_maguette_officiel,validé
+Pain,produit,ff,Mburu,mbuuru,ndeye_maguette_officiel,validé
+Pain,produit,srr,Mburu,mbourou,ndeye_maguette_officiel,validé
+Oignon,produit,wo,Soble,sooblë,ndeye_maguette_officiel,validé
+Oignon,produit,ff,Basalle,jaba,ndeye_maguette_officiel,validé
+Oignon,produit,srr,Soble,,ndeye_maguette_officiel,validé
+Pomme de terre,produit,wo,Pataas,pompiteer,ndeye_maguette_officiel,validé
+Pomme de terre,produit,ff,Pataas,pataasi,ndeye_maguette_officiel,validé
+Pomme de terre,produit,srr,pombiteer,pataas,ndeye_maguette_officiel,validé
+Tomate,produit,wo,Tamaate,tomaat ; tamaate luq,ndeye_maguette_officiel,validé
+Tomate,produit,ff,Tamaate,tomaat,ndeye_maguette_officiel,validé
+Tomate,produit,srr,Tamaate,tomaat,ndeye_maguette_officiel,validé
+Sel,produit,wo,Xorom,khorom,ndeye_maguette_officiel,validé
+Sel,produit,ff,Lamdam,laamɗam,ndeye_maguette_officiel,validé
+Sel,produit,srr,O jéme,Fo jéme,ndeye_maguette_officiel,validé
+Piment,produit,wo,Kaani,kaani salaat,ndeye_maguette_officiel,validé
+Piment,produit,ff,Kaani,kaaniba,ndeye_maguette_officiel,validé
+Piment,produit,srr,Kaani,,ndeye_maguette_officiel,validé
+Poisson,produit,wo,Jën,jeun ; jën wu frais,ndeye_maguette_officiel,validé
+Poisson,produit,ff,Liddi,liɗɗi ; lidji ; Lidjindi,ndeye_maguette_officiel,validé
+Poisson,produit,srr,O Liik,Liiké ; Yaas,ndeye_maguette_officiel,validé
+Viande,produit,wo,Yàpp,yapp,ndeye_maguette_officiel,validé
+Viande,produit,ff,Teew,kusel ; teyu,ndeye_maguette_officiel,validé
+Viande,produit,srr,O yaap,o yap ; yap,ndeye_maguette_officiel,validé
+Poulet,produit,wo,Ginaar,guinaar ; ginaar bu ñuul,ndeye_maguette_officiel,validé
+Poulet,produit,ff,Gertoogal,gertogal ; gertodé ; gerto,ndeye_maguette_officiel,validé
+Poulet,produit,srr,O tofan,o tofaan ; tofaan,ndeye_maguette_officiel,validé
+Œuf,produit,wo,Nen,,ndeye_maguette_officiel,validé
+Œuf,produit,ff,Bofo,ɓoccoonde ; boceere,ndeye_maguette_officiel,validé
+Œuf,produit,srr,Bof,,ndeye_maguette_officiel,validé
+Eau,produit,wo,Ndox,ndokh ; ndox mu sedd,ndeye_maguette_officiel,validé
+Eau,produit,ff,Ndiyam,,ndeye_maguette_officiel,validé
+Eau,produit,srr,foofi,foof,ndeye_maguette_officiel,validé
+Café,produit,wo,Kafe,kafe Tuba ; kafe nescafé,ndeye_maguette_officiel,validé
+Café,produit,ff,Kafe,,ndeye_maguette_officiel,validé
+Café,produit,srr,Kafe,,ndeye_maguette_officiel,validé
+Thé,produit,wo,Àttaaya,attaaya ; warga,ndeye_maguette_officiel,validé
+Thé,produit,ff,Shaahi,ataaya ; saahi,ndeye_maguette_officiel,validé
+Thé,produit,srr,Àttaaya,attaaya ; ataaya,ndeye_maguette_officiel,validé
+Savon,produit,wo,Saabu,saabun ; saabu morso,ndeye_maguette_officiel,validé
+Savon,produit,ff,Saabunde,saabu,ndeye_maguette_officiel,validé
+Savon,produit,srr,Saabu,saabun,ndeye_maguette_officiel,validé
+Sac,unité,wo,Saag,saak ; mbuus ; booro,ndeye_maguette_officiel,validé
+Sac,unité,ff,Mbafe,saag ; booro ; mbuusu,ndeye_maguette_officiel,validé
+Sac,unité,srr,Saak,saag ; o mbuus,ndeye_maguette_officiel,validé
+Kilo,unité,wo,Kilo,kiloo,ndeye_maguette_officiel,validé
+Kilo,unité,ff,Kilo,kiilo,ndeye_maguette_officiel,validé
+Kilo,unité,srr,Kilo,,ndeye_maguette_officiel,validé
+Litre,unité,wo,Liitar,liitir ; litər,ndeye_maguette_officiel,validé
+Litre,unité,ff,Liitir,liitar,ndeye_maguette_officiel,validé
+Litre,unité,srr,Liitar,liitir,ndeye_maguette_officiel,validé
+Paquet,unité,wo,Pake,paaket,ndeye_maguette_officiel,validé
+Paquet,unité,ff,Paaket,paake,ndeye_maguette_officiel,validé
+Paquet,unité,srr,Paake,paaket,ndeye_maguette_officiel,validé
+Bouteille,unité,wo,Butéel,buteel,ndeye_maguette_officiel,validé
+Bouteille,unité,ff,Butel,buteel,ndeye_maguette_officiel,validé
+Bouteille,unité,srr,Moone,buteel,ndeye_maguette_officiel,validé
+Morceau,unité,wo,Dott,dogit ; morso,ndeye_maguette_officiel,validé
+Morceau,unité,ff,feccere,morso,ndeye_maguette_officiel,validé
+Morceau,unité,srr,dég,,ndeye_maguette_officiel,validé
+Aujourd'hui,temps,wo,Tey,teey,ndeye_maguette_officiel,validé
+Aujourd'hui,temps,ff,Hannde,hande,ndeye_maguette_officiel,validé
+Aujourd'hui,temps,srr,hayé,,ndeye_maguette_officiel,validé
+Hier,temps,wo,Démb,demb,ndeye_maguette_officiel,validé
+Hier,temps,ff,Hanki,hangki,ndeye_maguette_officiel,validé
+Hier,temps,srr,Moone,,ndeye_maguette_officiel,validé
+Demain,temps,wo,Suba,ëllëg ; elleug,ndeye_maguette_officiel,validé
+Demain,temps,ff,Jaango,jango,ndeye_maguette_officiel,validé
+Demain,temps,srr,féte,Bo'o féte,ndeye_maguette_officiel,validé
+Matin,temps,wo,Suba,suba teel,ndeye_maguette_officiel,validé
+Matin,temps,ff,Subaka,fajiri,ndeye_maguette_officiel,validé
+Matin,temps,srr,O ngés,O mbéde ; féde,ndeye_maguette_officiel,validé
+Soir,temps,wo,Ngoon,ngoon gi,ndeye_maguette_officiel,validé
+Soir,temps,ff,Kikiida,kikiide ; hiiri ; Hiiré,ndeye_maguette_officiel,validé
+Soir,temps,srr,O yaar,yaaré,ndeye_maguette_officiel,validé
+Semaine,temps,wo,Ayubées,ayubes ; ay bés,ndeye_maguette_officiel,validé
+Semaine,temps,ff,Yontere,asawe,ndeye_maguette_officiel,validé
+Semaine,temps,srr,bées fa dakwidna,bés dakwiid,ndeye_maguette_officiel,validé
+Mois,temps,wo,Weer,wer ; weer wi,ndeye_maguette_officiel,validé
+Mois,temps,ff,Lewru,lebbi,ndeye_maguette_officiel,validé
+Mois,temps,srr,O ngool,ngoolongué,ndeye_maguette_officiel,validé
+Combien,question,wo,Ñaata,naata ; ñaata la,ndeye_maguette_officiel,validé
+Combien,question,ff,No foti,jelu ; no foti coggu,ndeye_maguette_officiel,validé
+Combien,question,srr,podnum,fodnum,ndeye_maguette_officiel,validé
+Qui,question,wo,Kan,kan la,ndeye_maguette_officiel,validé
+Qui,question,ff,Hol mo,hombo ; hol kanko,ndeye_maguette_officiel,validé
+Qui,question,srr,an,o an la,ndeye_maguette_officiel,validé
+Quoi,question,wo,Lan,lu ; lan la,ndeye_maguette_officiel,validé
+Quoi,question,ff,Ko honɗum,hol ko ; ko hondum,ndeye_maguette_officiel,validé
+Quoi,question,srr,Xar,kharoo ; xar refee,ndeye_maguette_officiel,validé
+Quand,question,wo,Kañ,kagn ; kañ la,ndeye_maguette_officiel,validé
+Quand,question,ff,Hol nde,nde ; holnde sahaa,ndeye_maguette_officiel,validé
+Quand,question,srr,mbane,nama ; mama,ndeye_maguette_officiel,validé
+Oui,confirmation,wo,Waaw,waw ; waawkay,ndeye_maguette_officiel,validé
+Oui,confirmation,ff,Eey,ii ; eeygo,ndeye_maguette_officiel,validé
+Oui,confirmation,srr,Iyo,eey,ndeye_maguette_officiel,validé
+Non,confirmation,wo,Déedéet,deedeet ; déet,ndeye_maguette_officiel,validé
+Non,confirmation,ff,Alaa,alaa dey,ndeye_maguette_officiel,validé
+Non,confirmation,srr,A'aa,Xa'a,ndeye_maguette_officiel,validé
+C'est ça,confirmation,wo,Mooy loolu,moom la ; nonu la,ndeye_maguette_officiel,validé
+C'est ça,confirmation,ff,Ko ɗum,ko goonga ; ko none,ndeye_maguette_officiel,validé
+C'est ça,confirmation,srr,téne réf,ténoo,ndeye_maguette_officiel,validé
+Répète,confirmation,wo,Waxaatal,waxaat ko ; baamtu,ndeye_maguette_officiel,validé
+Répète,confirmation,ff,Wi'tu,haaltu ; witu,ndeye_maguette_officiel,validé
+Répète,confirmation,srr,Biigel,retik ; waxaatal,ndeye_maguette_officiel,validé
+Client,personne,wo,Kiliyan,tànneef ; jëndkat,ndeye_maguette_officiel,validé
+Client,personne,ff,Kiliyan,coodoowo ; kiliyee,ndeye_maguette_officiel,validé
+Client,personne,srr,Kiliyan,o lupkat,ndeye_maguette_officiel,validé
+Voisin(e),personne,wo,Dëkkandoo,deukkandoo ; dëkkëndoo,ndeye_maguette_officiel,validé
+Voisin(e),personne,ff,Koddiido,taariiɗo ; hoɗdiiɗo,ndeye_maguette_officiel,validé
+Voisin(e),personne,srr,O kentane,guentane,ndeye_maguette_officiel,validé
+Mère,personne,wo,Yaay,ndey,ndeye_maguette_officiel,validé
+Mère,personne,ff,Neene,inna ; yuuma,ndeye_maguette_officiel,validé
+Mère,personne,srr,Ya'ès,Yaayo,ndeye_maguette_officiel,validé
+Tante,personne,wo,Bajjen,Tànta ; tànta,ndeye_maguette_officiel,validé
+Tante,personne,ff,Yaye,gorko ; debbo ; taanta,ndeye_maguette_officiel,validé
+Tante,personne,srr,Ya ndeb,Ya maak ; Fapo Tew,ndeye_maguette_officiel,validé
+Prix / Coût,paiement,wo,Njëg,njeg ; njëg li,ndeye_maguette_officiel,validé
+Prix / Coût,paiement,ff,Coggu,coggu ngu,ndeye_maguette_officiel,validé
+Prix / Coût,paiement,srr,O jeg,o jëg ; njeg,ndeye_maguette_officiel,validé
+Négocier / Marchander,intention,wo,waxaalé,waaxale,ndeye_maguette_officiel,validé
+Négocier / Marchander,intention,ff,Ussude,uustu ; ustude coggu,ndeye_maguette_officiel,validé
+Négocier / Marchander,intention,srr,Woñ,wagn ; woñ o jeg,ndeye_maguette_officiel,validé
+Réduction / Rabais,paiement,wo,Wàññit,wanyit ; rabees,ndeye_maguette_officiel,validé
+Réduction / Rabais,paiement,ff,Ussuri,ussude,ndeye_maguette_officiel,validé
+Réduction / Rabais,paiement,srr,O woñ,o wagn ; rabee,ndeye_maguette_officiel,validé
+Cher (coûteux),paiement,wo,Dafa seer,seer na ; chere,ndeye_maguette_officiel,validé
+Cher (coûteux),paiement,ff,No tiiɗi,tiiɗi coggu,ndeye_maguette_officiel,validé
+Cher (coûteux),paiement,srr,A seera,seeru,ndeye_maguette_officiel,validé
+Moins cher / Bon marché,paiement,wo,Yomb na,yomb ; dafa yomb,ndeye_maguette_officiel,validé
+Moins cher / Bon marché,paiement,ff,No yaawi,yaawi coggu ; newii,ndeye_maguette_officiel,validé
+Moins cher / Bon marché,paiement,srr,A yooba,yombu ; a hoyu,ndeye_maguette_officiel,validé
+Facture / Reçu,paiement,wo,Faktiir,kayit ; faktur,ndeye_maguette_officiel,validé
+Facture / Reçu,paiement,ff,Faktur,kaydi yoɓo,ndeye_maguette_officiel,validé
+Facture / Reçu,paiement,srr,Faktiir,o kayit,ndeye_maguette_officiel,validé
+Commande,autre,wo,Komànd,sant ; komand,ndeye_maguette_officiel,validé
+Commande,autre,ff,Komand,yamirde,ndeye_maguette_officiel,validé
+Commande,autre,srr,Komànd,komand,ndeye_maguette_officiel,validé
+Livrer / Livraison,intention,wo,Yóbbal,yobbal ; liiwre,ndeye_maguette_officiel,validé
+Livrer / Livraison,intention,ff,Nawde,naw ; addude,ndeye_maguette_officiel,validé
+Livrer / Livraison,intention,srr,Ɓik,bik ; yobbal,ndeye_maguette_officiel,validé
+Marché (lieu),autre,wo,Marse,marche ; jàba,ndeye_maguette_officiel,validé
+Marché (lieu),autre,ff,Jeere,Luumo ; luumo,ndeye_maguette_officiel,validé
+Marché (lieu),autre,srr,Maarse,luumo,ndeye_maguette_officiel,validé
+Boutique / Étal,autre,wo,Bitik,tabal ; butik,ndeye_maguette_officiel,validé
+Boutique / Étal,autre,ff,Bitik,luumorde ; bitiki,ndeye_maguette_officiel,validé
+Boutique / Étal,autre,srr,Bitik,tabal ; butik,ndeye_maguette_officiel,validé
+Vendeur / Boutiquier,personne,wo,Jaaykat,boutiquier ; tijaar,ndeye_maguette_officiel,validé
+Vendeur / Boutiquier,personne,ff,Jeeyoowo,kodo bitik,ndeye_maguette_officiel,validé
+Vendeur / Boutiquier,personne,srr,O faaykat,o xoxkat ; jaaykat,ndeye_maguette_officiel,validé
+Peser (balance),intention,wo,Natt,nat ; natte,ndeye_maguette_officiel,validé
+Peser (balance),intention,ff,Betude,bet ; peñude,ndeye_maguette_officiel,validé
+Peser (balance),intention,srr,Nat,natt ; bet,ndeye_maguette_officiel,validé
+Balance,autre,wo,Balaas,balans ; balaans,ndeye_maguette_officiel,validé
+Balance,autre,ff,Balaas,betirgal ; balaansi,ndeye_maguette_officiel,validé
+Balance,autre,srr,Balaas,balaans ; nattir,ndeye_maguette_officiel,validé
+Perte (financière),paiement,wo,Ñàkk,nyakk ; lor ; pàrt,ndeye_maguette_officiel,validé
+Perte (financière),paiement,ff,Runkere,pertu ; baasgol,ndeye_maguette_officiel,validé
+Perte (financière),paiement,srr,O lor,o paart ; o gnak,ndeye_maguette_officiel,validé
+Espèces / Cash,paiement,wo,Xaalis bu teew,kes ; xaalis bu ñu yor,ndeye_maguette_officiel,validé
+Espèces / Cash,paiement,ff,Kaalis keewɗo,kaalis gooto ; kaas,ndeye_maguette_officiel,validé
+Espèces / Cash,paiement,srr,Xaalis no teew,Xaalis teew ; kes,ndeye_maguette_officiel,validé
+Mobile Money (Wave / Orange),paiement,wo,Xaalis bu telefon,Weef ; Orans Mani,ndeye_maguette_officiel,validé
+Mobile Money (Wave / Orange),paiement,ff,Kaalis telefoŋ,kaalis weew ; oransi,ndeye_maguette_officiel,validé
+Mobile Money (Wave / Orange),paiement,srr,Xaalis telefon,weef ; kaalis telefon,ndeye_maguette_officiel,validé
+Rupture de stock / Épuisé,autre,wo,Jeex na takk,amatul,ndeye_maguette_officiel,validé
+Rupture de stock / Épuisé,autre,ff,Gasi,hasi ; gasii fof,ndeye_maguette_officiel,validé
+Rupture de stock / Épuisé,autre,srr,A faga,faga takk,ndeye_maguette_officiel,validé
+Disponible / En stock,autre,wo,Am na fi,am na ; baax na,ndeye_maguette_officiel,validé
+Disponible / En stock,autre,ff,Eno woodi,no woodi ; woodi,ndeye_maguette_officiel,validé
+Disponible / En stock,autre,srr,A gara,a refa fi ; a jega,ndeye_maguette_officiel,validé
+Bonne qualité,autre,wo,Baax na,bon kalité ; am na solo,ndeye_maguette_officiel,validé
+Bonne qualité,autre,ff,No moƴƴi,modjoudé ; modji ; mojji,ndeye_maguette_officiel,validé
+Bonne qualité,autre,srr,A paaha,a faaha,ndeye_maguette_officiel,validé
+Périmé / Gâté,autre,wo,Yàqu na,yaqu ; bon na,ndeye_maguette_officiel,validé
+Périmé / Gâté,autre,ff,Bonii,boni ; modjani,ndeye_maguette_officiel,validé
+Périmé / Gâté,autre,srr,A bonu,bonu ; a yaqu,ndeye_maguette_officiel,validé
+Sachet / Emballage,unité,wo,Mbuus,mbuus mu sew,ndeye_maguette_officiel,validé
+Sachet / Emballage,unité,ff,Mbafe,mbuusu ; mbafo,ndeye_maguette_officiel,validé
+Sachet / Emballage,unité,srr,O mbuus,mbuus ; o saaket,ndeye_maguette_officiel,validé
+Carton,unité,wo,Kartoŋ,karton,ndeye_maguette_officiel,validé
+Carton,unité,ff,Kartoŋ,kartoŋi,ndeye_maguette_officiel,validé
+Carton,unité,srr,Kartoŋ,,ndeye_maguette_officiel,validé
+Boîte,unité,wo,Bowaat,boite ; boyet,ndeye_maguette_officiel,validé
+Boîte,unité,ff,Bowaat,bowaati,ndeye_maguette_officiel,validé
+Boîte,unité,srr,Bowaat,boite,ndeye_maguette_officiel,validé
+Demi-kilo,unité,wo,Gwal-kilo,wal-kilo ; xaaj kilo,ndeye_maguette_officiel,validé
+Demi-kilo,unité,ff,Wal-kilo,feccere kilo,ndeye_maguette_officiel,validé
+Demi-kilo,unité,srr,Wal-kilo,xaaj kilo ; ngasang ; genwal,ndeye_maguette_officiel,validé
+Quart de kilo,unité,wo,Kaar-kilo,kaar kilo,ndeye_maguette_officiel,validé
+Quart de kilo,unité,ff,Kaar-kilo,nayɓal kilo,ndeye_maguette_officiel,validé
+Quart de kilo,unité,srr,Kaar-kilo,kaar kilo,ndeye_maguette_officiel,validé
+Vente en gros,intention,wo,Jaay en-guro,jaay guro ; jaay bu mag,ndeye_maguette_officiel,validé
+Vente en gros,intention,ff,Yeeyde guro,yeeyde goro,ndeye_maguette_officiel,validé
+Vente en gros,intention,srr,Jaay en-guro,xox en-guro,ndeye_maguette_officiel,validé
+Vente au détail,intention,wo,Jaay en-detaay,jaay detaay ; jaay tuuti,ndeye_maguette_officiel,validé
+Vente au détail,intention,ff,Yeeyde detaay,yeeyde detaaye,ndeye_maguette_officiel,validé
+Vente au détail,intention,srr,Jaay detaay,xox detaay,ndeye_maguette_officiel,validé
+Portefeuille / Bourse,autre,wo,Mbaal,Pòs ; pos ; baag,ndeye_maguette_officiel,validé
+Portefeuille / Bourse,autre,ff,Danfal,mboosaari ; jiiba,ndeye_maguette_officiel,validé
+Portefeuille / Bourse,autre,srr,O pos,jiiba,ndeye_maguette_officiel,validé
+Compter (l'argent),intention,wo,Waññ,wagn ; waññ xaalis bi,ndeye_maguette_officiel,validé
+Compter (l'argent),intention,ff,Limde,lim ; limude kaalis,ndeye_maguette_officiel,validé
+Compter (l'argent),intention,srr,Lim,Liim,ndeye_maguette_officiel,validé
+Vérifier / Contrôler,intention,wo,Xool,Seet ; saytu ; set,ndeye_maguette_officiel,validé
+Vérifier / Contrôler,intention,ff,Ƴeewde,yeewde ; ndaarde,ndeye_maguette_officiel,validé
+Vérifier / Contrôler,intention,srr,ga'a,deeti,ndeye_maguette_officiel,validé

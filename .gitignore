@@ -1,0 +1,81 @@
+# Environnements et secrets
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+venv.bak/
+.venv/
+env/
+ENV/
+
+# Tests et linters
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Base de données locale (clients, opérations, confirmations en attente)
+*.db
+*.sqlite3
+
+# Node / Frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Modèles volumineux et audio
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.wav
+*.mp3
+*.ogg
+*.opus
+*.flac
+*.m4a
+!contracts/examples/**
+
+# Système et IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+nlp/experiments/resultats/
+
+# Données produites par l'usage de Kaddu (tests, équipe, WhatsApp)
+nlp/data/*.db
+nlp/data/sessions_*.csv
+nlp/data/journal_live.csv
+nlp/data/equipe/
+nlp/data/whatsapp/
+nlp/data/whatsapp_essai/
+nlp/audios/
+nlp/data/conversations*.jsonl
+nlp/data/conversations*_annotations.csv
+nlp/data/conversations*.jsonl
+nlp/data/conversations*_annotations.csv

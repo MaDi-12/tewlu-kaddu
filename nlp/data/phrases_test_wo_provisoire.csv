@@ -1,0 +1,21 @@
+id,langue,intention,phrase,traduction_fr,client,produit,quantite,unite,montant,difficulte
+wo_001,wo,vente,"Jaay naa ñaari paket sukar, junni ak juróom téeméer.","J'ai vendu 2 paquets de sucre, 1 500.",,sucre,2,paquet,1500,simple
+wo_002,wo,vente_credit,"Awa jënd na ñaari paket sukar, ñetti junni, dafa ko bor.","Awa a pris 2 paquets de sucre, 3 000, à crédit.",Awa,sucre,2,paquet,3000,simple
+wo_003,wo,remboursement,Awa fey na junni.,Awa a payé 1 000.,Awa,,,,1000,simple
+wo_004,wo,achat,"Jënd naa fukki saaku ceeb ci 150000.","J'ai acheté 10 sacs de riz à 150 000.",,riz,10,sac,150000,simple
+wo_005,wo,depense,"Fey naa transport bi, ñaari junni.","J'ai payé le transport, 2 000.",,,,,2000,simple
+wo_006,wo,question_dette,Ñaata la Moussa ma bor ?,Combien Moussa me doit ?,Moussa,,,,,simple
+wo_007,wo,question_bilan,Ñaata laa jaay tey ?,Combien j'ai vendu aujourd'hui ?,,,,,,simple
+wo_008,wo,annulation,Far li ma mujje bind.,Efface la dernière chose que j'ai notée.,,,,,,simple
+wo_009,wo,vente,"Jaay naa ñetti kilo soble, 1500.","J'ai vendu 3 kilos d'oignons, 1 500.",,oignon,3,kilo,1500,simple
+wo_010,wo,remboursement,Moussa fey na ñaari junni ci bor bi.,Moussa a payé 2 000 sur sa dette.,Moussa,,,,2000,simple
+wo_011,wo,vente,Jaay naa benn saaku ceeb 22500.,J'ai vendu un sac de riz 22 500.,,riz,1,sac,22500,simple
+wo_012,wo,achat,"Jënd naa juróomi bidon diw ci grossiste bi, 60000.","J'ai acheté 5 bidons d'huile chez le grossiste, 60 000.",,huile,5,bidon,60000,simple
+wo_013,wo,depense,"Fey naa loyer bi, 50000.","J'ai payé le loyer, 50 000.",,,,,50000,simple
+wo_014,wo,vente,"Jaay naa ñetti mburu, ñeent téeméer ak juróom fukk.","J'ai vendu 3 pains, 450.",,pain,3,,450,simple
+wo_015,wo,remboursement,Awa yónnee na ma 5000 ci Wave.,Awa m'a envoyé 5 000 par Wave.,Awa,,,,5000,difficile
+wo_016,wo,vente_credit,"Fatou jël na benn litar diw, junni, dina fey ëllëg.","Fatou a pris un litre d'huile, 1 000, elle paiera demain.",Fatou,huile,1,litre,1000,difficile
+wo_017,wo,vente_credit,"Sama dëkkandoo bi jël na benn paket kafe, 1000, dafa ko bor.","Mon voisin a pris un paquet de café, 1 000, à crédit.",voisin,café,1,paquet,1000,difficile
+wo_018,wo,vente_credit,"Tata Ndeye prendre na deux paquets lait, 2500, à crédit.","Tata Ndeye a pris deux paquets de lait, 2 500, à crédit.",Tata Ndeye,lait,2,paquet,2500,difficile
+wo_019,wo,question_dette,Kan moo ma bor ?,Qui me doit ?,,,,,,difficile
+wo_020,wo,annulation,Annule li ma wax.,Annule ce que j'ai dit.,,,,,,difficile

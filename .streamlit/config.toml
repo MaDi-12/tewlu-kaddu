@@ -1,0 +1,13 @@
+# Thème de l'interface Kaddu (dans l'esprit de l'interface de Khalifa)
+[theme]
+base = "dark"
+primaryColor = "#3b82f6"
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#1e293b"
+textColor = "#f8fafc"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

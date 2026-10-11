@@ -1,0 +1,7 @@
+# Environnement séparé du backend (le backend fige transformers==4.46.3, trop ancien pour TinyAya)
+torch
+transformers>=4.57
+accelerate
+sentencepiece
+pydantic>=2
+text2num

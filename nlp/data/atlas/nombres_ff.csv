@@ -1,0 +1,101 @@
+valeur,forme,variantes,source,statut
+1,go'o,goo,ndeye_maguette_officiel,validé
+2,ɗiɗi,didi,ndeye_maguette_officiel,validé
+3,tati,,ndeye_maguette_officiel,validé
+4,nay,,ndeye_maguette_officiel,validé
+5,joy,,ndeye_maguette_officiel,validé
+6,jeegom,,ndeye_maguette_officiel,validé
+7,jeedidi,jeeɗiɗi,ndeye_maguette_officiel,validé
+8,jeetati,,ndeye_maguette_officiel,validé
+9,jeenay,,ndeye_maguette_officiel,validé
+10,sappo,,ndeye_maguette_officiel,validé
+11,sappo e go'o,sappo e goo,ndeye_maguette_officiel,validé
+12,sappo e ɗiɗi,sappo e didi,ndeye_maguette_officiel,validé
+13,sappo e tati,,ndeye_maguette_officiel,validé
+14,sappo e nay,,ndeye_maguette_officiel,validé
+15,sappo e joy,,ndeye_maguette_officiel,validé
+16,sappo e jeegom,,ndeye_maguette_officiel,validé
+17,sappo e jeedidi,sappo e jeeɗiɗi,ndeye_maguette_officiel,validé
+18,sappo e jeetati,,ndeye_maguette_officiel,validé
+19,sappo e jeenay,,ndeye_maguette_officiel,validé
+20,nogass,noogaas ; noogas,ndeye_maguette_officiel,validé
+21,nogass e go'o,noogaas e go'o ; noogas e go'o ; noogaas e goo ; nogass e goo,ndeye_maguette_officiel,validé
+22,nogass e ɗiɗi,noogaas e ɗiɗi ; noogas e ɗiɗi ; noogaas e didi ; nogass e didi,ndeye_maguette_officiel,validé
+23,nogass e tati,noogaas e tati ; noogas e tati,ndeye_maguette_officiel,validé
+24,nogass e nay,noogaas e nay ; noogas e nay,ndeye_maguette_officiel,validé
+25,nogass e joy,noogaas e joy ; noogas e joy,ndeye_maguette_officiel,validé
+26,nogass e jeegom,noogaas e jeegom ; noogas e jeegom,ndeye_maguette_officiel,validé
+27,nogass e jeedidi,noogaas e jeeɗiɗi ; noogas e jeeɗiɗi ; noogaas e jeedidi,ndeye_maguette_officiel,validé
+28,nogass e jeetati,noogaas e jeetati ; noogas e jeetati,ndeye_maguette_officiel,validé
+29,nogass e jeenay,noogaas e jeenay ; noogas e jeenay,ndeye_maguette_officiel,validé
+30,thiapanɗe tati,capanɗe tati ; capande tati ; thiapande tati,ndeye_maguette_officiel,validé
+31,thiapanɗe tati e go'o,capanɗe tati e go'o ; capande tati e goo ; thiapande tati e goo,ndeye_maguette_officiel,validé
+32,thiapanɗe tati e ɗiɗi,capanɗe tati e ɗiɗi ; capande tati e didi ; thiapande tati e didi,ndeye_maguette_officiel,validé
+33,thiapanɗe tati e tati,capanɗe tati e tati ; capande tati e tati ; thiapande tati e tati,ndeye_maguette_officiel,validé
+34,thiapanɗe tati e nay,capanɗe tati e nay ; capande tati e nay ; thiapande tati e nay,ndeye_maguette_officiel,validé
+35,thiapanɗe tati e joy,capanɗe tati e joy ; capande tati e joy ; thiapande tati e joy,ndeye_maguette_officiel,validé
+36,thiapanɗe tati e jeegom,capanɗe tati e jeegom ; capande tati e jeegom ; thiapande tati e jeegom,ndeye_maguette_officiel,validé
+37,thiapanɗe tati e jeedidi,capanɗe tati e jeeɗiɗi ; capande tati e jeedidi ; thiapande tati e jeedidi,ndeye_maguette_officiel,validé
+38,thiapanɗe tati e jeetati,capanɗe tati e jeetati ; capande tati e jeetati ; thiapande tati e jeetati,ndeye_maguette_officiel,validé
+39,thiapanɗe tati e jeenay,capanɗe tati e jeenay ; capande tati e jeenay ; thiapande tati e jeenay,ndeye_maguette_officiel,validé
+40,thiapanɗe nay,capanɗe nay ; capande nay ; thiapande nay,ndeye_maguette_officiel,validé
+41,thiapanɗe nay e go'o,capanɗe nay e go'o ; capande nay e goo ; thiapande nay e goo,ndeye_maguette_officiel,validé
+42,thiapanɗe nay e ɗiɗi,capanɗe nay e ɗiɗi ; capande nay e didi ; thiapande nay e didi,ndeye_maguette_officiel,validé
+43,thiapanɗe nay e tati,capanɗe nay e tati ; capande nay e tati ; thiapande nay e tati,ndeye_maguette_officiel,validé
+44,thiapanɗe nay e nay,capanɗe nay e nay ; capande nay e nay ; thiapande nay e nay,ndeye_maguette_officiel,validé
+45,thiapanɗe nay e joy,capanɗe nay e joy ; capande nay e joy ; thiapande nay e joy,ndeye_maguette_officiel,validé
+46,thiapanɗe nay e jeegom,capanɗe nay e jeegom ; capande nay e jeegom ; thiapande nay e jeegom,ndeye_maguette_officiel,validé
+47,thiapanɗe nay e jeedidi,capanɗe nay e jeeɗiɗi ; capande nay e jeedidi ; thiapande nay e jeedidi,ndeye_maguette_officiel,validé
+48,thiapanɗe nay e jeetati,capanɗe nay e jeetati ; capande nay e jeetati ; thiapande nay e jeetati,ndeye_maguette_officiel,validé
+49,thiapanɗe nay e jeenay,capanɗe nay e jeenay ; capande nay e jeenay ; thiapande nay e jeenay,ndeye_maguette_officiel,validé
+50,thiapanɗe joy,capanɗe joy ; capande joy ; thiapande joy,ndeye_maguette_officiel,validé
+51,thiapanɗe joy e go'o,capanɗe joy e go'o ; capande joy e goo ; thiapande joy e goo,ndeye_maguette_officiel,validé
+52,thiapanɗe joy e ɗiɗi,capanɗe joy e ɗiɗi ; capande joy e didi ; thiapande joy e didi,ndeye_maguette_officiel,validé
+53,thiapanɗe joy e tati,capanɗe joy e tati ; capande joy e tati ; thiapande joy e tati,ndeye_maguette_officiel,validé
+54,thiapanɗe joy e nay,capanɗe joy e nay ; capande joy e nay ; thiapande joy e nay,ndeye_maguette_officiel,validé
+55,thiapanɗe joy e joy,capanɗe joy e joy ; capande joy e joy ; thiapande joy e joy,ndeye_maguette_officiel,validé
+56,thiapanɗe joy e jeegom,capanɗe joy e jeegom ; capande joy e jeegom ; thiapande joy e jeegom,ndeye_maguette_officiel,validé
+57,thiapanɗe joy e jeedidi,capanɗe joy e jeeɗiɗi ; capande joy e jeedidi ; thiapande joy e jeedidi,ndeye_maguette_officiel,validé
+58,thiapanɗe joy e jeetati,capanɗe joy e jeetati ; capande joy e jeetati ; thiapande joy e jeetati,ndeye_maguette_officiel,validé
+59,thiapanɗe joy e jeenay,capanɗe joy e jeenay ; capande joy e jeenay ; thiapande joy e jeenay,ndeye_maguette_officiel,validé
+60,thiapanɗe jeegom,capanɗe jeegom ; capande jeegom ; thiapande jeegom,ndeye_maguette_officiel,validé
+61,thiapanɗe jeegom e go'o,capanɗe jeegom e go'o ; capande jeegom e goo ; thiapande jeegom e goo,ndeye_maguette_officiel,validé
+62,thiapanɗe jeegom e ɗiɗi,capanɗe jeegom e ɗiɗi ; capande jeegom e didi ; thiapande jeegom e didi,ndeye_maguette_officiel,validé
+63,thiapanɗe jeegom e tati,capanɗe jeegom e tati ; capande jeegom e tati ; thiapande jeegom e tati,ndeye_maguette_officiel,validé
+64,thiapanɗe jeegom e nay,capanɗe jeegom e nay ; capande jeegom e nay ; thiapande jeegom e nay,ndeye_maguette_officiel,validé
+65,thiapanɗe jeegom e joy,capanɗe jeegom e joy ; capande jeegom e joy ; thiapande jeegom e joy,ndeye_maguette_officiel,validé
+66,thiapanɗe jeegom e jeegom,capanɗe jeegom e jeegom ; capande jeegom e jeegom ; thiapande jeegom e jeegom,ndeye_maguette_officiel,validé
+67,thiapanɗe jeegom e jeedidi,capanɗe jeegom e jeeɗiɗi ; capande jeegom e jeedidi ; thiapande jeegom e jeedidi,ndeye_maguette_officiel,validé
+68,thiapanɗe jeegom e jeetati,capanɗe jeegom e jeetati ; capande jeegom e jeetati ; thiapande jeegom e jeetati,ndeye_maguette_officiel,validé
+69,thiapanɗe jeegom e jeenay,capanɗe jeegom e jeenay ; capande jeegom e jeenay ; thiapande jeegom e jeenay,ndeye_maguette_officiel,validé
+70,thiapanɗe jeedidi,capanɗe jeeɗiɗi ; capande jeedidi ; thiapande jeedidi,ndeye_maguette_officiel,validé
+71,thiapanɗe jeedidi e go'o,capanɗe jeeɗiɗi e go'o ; capande jeedidi e goo ; thiapande jeedidi e goo,ndeye_maguette_officiel,validé
+72,thiapanɗe jeedidi e ɗiɗi,capanɗe jeeɗiɗi e ɗiɗi ; capande jeedidi e didi ; thiapande jeedidi e didi,ndeye_maguette_officiel,validé
+73,thiapanɗe jeedidi e tati,capanɗe jeeɗiɗi e tati ; capande jeedidi e tati ; thiapande jeedidi e tati,ndeye_maguette_officiel,validé
+74,thiapanɗe jeedidi e nay,capanɗe jeeɗiɗi e nay ; capande jeedidi e nay ; thiapande jeedidi e nay,ndeye_maguette_officiel,validé
+75,thiapanɗe jeedidi e joy,capanɗe jeeɗiɗi e joy ; capande jeedidi e joy ; thiapande jeedidi e joy,ndeye_maguette_officiel,validé
+76,thiapanɗe jeedidi e jeegom,capanɗe jeeɗiɗi e jeegom ; capande jeedidi e jeegom ; thiapande jeedidi e jeegom,ndeye_maguette_officiel,validé
+77,thiapanɗe jeedidi e jeedidi,capanɗe jeeɗiɗi e jeeɗiɗi ; capande jeedidi e jeedidi ; thiapande jeedidi e jeedidi,ndeye_maguette_officiel,validé
+78,thiapanɗe jeedidi e jeetati,capanɗe jeeɗiɗi e jeetati ; capande jeedidi e jeetati ; thiapande jeedidi e jeetati,ndeye_maguette_officiel,validé
+79,thiapanɗe jeedidi e jeenay,capanɗe jeeɗiɗi e jeenay ; capande jeedidi e jeenay ; thiapande jeedidi e jeenay,ndeye_maguette_officiel,validé
+80,thiapanɗe jeetati,capanɗe jeetati ; capande jeetati ; thiapande jeetati,ndeye_maguette_officiel,validé
+81,thiapanɗe jeetati e go'o,capanɗe jeetati e go'o ; capande jeetati e goo ; thiapande jeetati e goo,ndeye_maguette_officiel,validé
+82,thiapanɗe jeetati e ɗiɗi,capanɗe jeetati e ɗiɗi ; capande jeetati e didi ; thiapande jeetati e didi,ndeye_maguette_officiel,validé
+83,thiapanɗe jeetati e tati,capanɗe jeetati e tati ; capande jeetati e tati ; thiapande jeetati e tati,ndeye_maguette_officiel,validé
+84,thiapanɗe jeetati e nay,capanɗe jeetati e nay ; capande jeetati e nay ; thiapande jeetati e nay,ndeye_maguette_officiel,validé
+85,thiapanɗe jeetati e joy,capanɗe jeetati e joy ; capande jeetati e joy ; thiapande jeetati e joy,ndeye_maguette_officiel,validé
+86,thiapanɗe jeetati e jeegom,capanɗe jeetati e jeegom ; capande jeetati e jeegom ; thiapande jeetati e jeegom,ndeye_maguette_officiel,validé
+87,thiapanɗe jeetati e jeedidi,capanɗe jeetati e jeeɗiɗi ; capande jeetati e jeedidi ; thiapande jeetati e jeedidi,ndeye_maguette_officiel,validé
+88,thiapanɗe jeetati e jeetati,capanɗe jeetati e jeetati ; capande jeetati e jeetati ; thiapande jeetati e jeetati,ndeye_maguette_officiel,validé
+89,thiapanɗe jeetati e jeenay,capanɗe jeetati e jeenay ; capande jeetati e jeenay ; thiapande jeetati e jeenay,ndeye_maguette_officiel,validé
+90,thiapanɗe jeenay,capanɗe jeenay ; capande jeenay ; thiapande jeenay,ndeye_maguette_officiel,validé
+91,thiapanɗe jeenay e go'o,capanɗe jeenay e go'o ; capande jeenay e goo ; thiapande jeenay e goo,ndeye_maguette_officiel,validé
+92,thiapanɗe jeenay e ɗiɗi,capanɗe jeenay e ɗiɗi ; capande jeenay e didi ; thiapande jeenay e didi,ndeye_maguette_officiel,validé
+93,thiapanɗe jeenay e tati,capanɗe jeenay e tati ; capande jeenay e tati ; thiapande jeenay e tati,ndeye_maguette_officiel,validé
+94,thiapanɗe jeenay e nay,capanɗe jeenay e nay ; capande jeenay e nay ; thiapande jeenay e nay,ndeye_maguette_officiel,validé
+95,thiapanɗe jeenay e joy,capanɗe jeenay e joy ; capande jeenay e joy ; thiapande jeenay e joy,ndeye_maguette_officiel,validé
+96,thiapanɗe jeenay e jeegom,capanɗe jeenay e jeegom ; capande jeenay e jeegom ; thiapande jeenay e jeegom,ndeye_maguette_officiel,validé
+97,thiapanɗe jeenay e jeedidi,capanɗe jeenay e jeeɗiɗi ; capande jeenay e jeedidi ; thiapande jeenay e jeedidi,ndeye_maguette_officiel,validé
+98,thiapanɗe jeenay e jeetati,capanɗe jeenay e jeetati ; capande jeenay e jeetati ; thiapande jeenay e jeetati,ndeye_maguette_officiel,validé
+99,thiapanɗe jeenay e jeenay,capanɗe jeenay e jeenay ; capande jeenay e jeenay ; thiapande jeenay e jeenay,ndeye_maguette_officiel,validé
+100,teemedéré,teemedere,ndeye_maguette_officiel,validé

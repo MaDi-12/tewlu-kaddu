@@ -1,0 +1,112 @@
+montant_fcfa,forme,variantes,logique,source,statut
+25,xabétakh,xabetakh ; khabetakh,25 F (xabétakh),ndeye_maguette_officiel,validé
+50,xarbaxay,kharbakhay,10 × 5 F,ndeye_maguette_officiel,validé
+75,xarbaxay fo xabétakh,xarbaxay fo xabetakh ; kharbakhay fo khabetakh,10 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+100,xarbéndik,xarbéne dik ; xarbendik ; kharbendik ; xarbene dik ; kharbene dik,20 × 5 F,ndeye_maguette_officiel,validé
+125,xarbéndik fo xabétakh,xarbéne dik fo xabétakh ; xarbendik fo xabetakh ; kharbendik fo khabetakh ; xarbene dik fo xabetakh ; kharbene dik fo khabetakh,20 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+150,xarbéntadik,xarbéne tadik ; xarbentadik ; kharbentadik ; xarbene tadik ; kharbene tadik,30 × 5 F,ndeye_maguette_officiel,validé
+175,xarbéntadik fo xabétakh,xarbéne tadik fo xabétakh ; xarbentadik fo xabetakh ; kharbentadik fo khabetakh ; xarbene tadik fo xabetakh ; kharbene tadik fo khabetakh,30 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+200,xarbénahik,xarbéne nahik ; xarbenahik ; kharbenahik ; xarbene nahik ; kharbene nahik,40 × 5 F,ndeye_maguette_officiel,validé
+225,xarbénahik fo xabétakh,xarbéne nahik fo xabétakh ; xarbenahik fo xabetakh ; kharbenahik fo khabetakh ; xarbene nahik fo xabetakh ; kharbene nahik fo khabetakh,40 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+250,xarbéne betik,xarbénbetik ; xarbene betik ; kharbene betik ; xarbenbetik ; kharbenbetik,50 × 5 F,ndeye_maguette_officiel,validé
+275,xarbéne betik fo xabétakh,xarbénbetik fo xabétakh ; xarbene betik fo xabetakh ; kharbene betik fo khabetakh ; xarbenbetik fo xabetakh ; kharbenbetik fo khabetakh,50 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+300,xarbéne bétou fa leng,xarbene betou fa leng ; kharbene betou fa leng,60 × 5 F,ndeye_maguette_officiel,validé
+325,xarbéne bétou fa leng fo xabétakh,xarbene betou fa leng fo xabetakh ; kharbene betou fa leng fo khabetakh,60 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+350,xarbéne bétou dik,xarbene betou dik ; kharbene betou dik,70 × 5 F,ndeye_maguette_officiel,validé
+375,xarbéne bétou dik fo xabétakh,xarbene betou dik fo xabetakh ; kharbene betou dik fo khabetakh,70 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+400,xarbéne bétou tadik,xarbene betou tadik ; kharbene betou tadik,80 × 5 F,ndeye_maguette_officiel,validé
+425,xarbéne bétou tadik fo xabétakh,xarbene betou tadik fo xabetakh ; kharbene betou tadik fo khabetakh,80 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+450,xarbéne bétou nahik,xarbene betou nahik ; kharbene betou nahik,90 × 5 F,ndeye_maguette_officiel,validé
+475,xarbéne bétou nahik fo xabétakh,xarbene betou nahik fo xabetakh ; kharbene betou nahik fo khabetakh,90 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+500,teeméde,teemede,1 × 500 F,ndeye_maguette_officiel,validé
+525,teeméde fo xabétakh,teemede fo xabetakh ; teemede fo khabetakh,1 × 500 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+550,teeméde fo xarbaxay,teemede fo xarbaxay ; teemede fo kharbakhay,1 × 500 F + 10 × 5 F,ndeye_maguette_officiel,validé
+575,teeméde fo xarbaxay fo xabétakh,teemede fo xarbaxay fo xabetakh ; teemede fo kharbakhay fo khabetakh,1 × 500 F + 10 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+600,teeméde fo xarbéndik,teeméde fo xarbéne dik ; teemede fo xarbendik ; teemede fo kharbendik ; teemede fo xarbene dik ; teemede fo kharbene dik,1 × 500 F + 20 × 5 F,ndeye_maguette_officiel,validé
+625,teeméde fo xarbéndik fo xabétakh,teeméde fo xarbéne dik fo xabétakh ; teemede fo xarbendik fo xabetakh ; teemede fo kharbendik fo khabetakh ; teemede fo xarbene dik fo xabetakh ; teemede fo kharbene dik fo khabetakh,1 × 500 F + 20 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+650,teeméde fo xarbéntadik,teeméde fo xarbéne tadik ; teemede fo xarbentadik ; teemede fo kharbentadik ; teemede fo xarbene tadik ; teemede fo kharbene tadik,1 × 500 F + 30 × 5 F,ndeye_maguette_officiel,validé
+675,teeméde fo xarbéntadik fo xabétakh,teeméde fo xarbéne tadik fo xabétakh ; teemede fo xarbentadik fo xabetakh ; teemede fo kharbentadik fo khabetakh ; teemede fo xarbene tadik fo xabetakh ; teemede fo kharbene tadik fo khabetakh,1 × 500 F + 30 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+700,teeméde fo xarbénahik,teeméde fo xarbéne nahik ; teemede fo xarbenahik ; teemede fo kharbenahik ; teemede fo xarbene nahik ; teemede fo kharbene nahik,1 × 500 F + 40 × 5 F,ndeye_maguette_officiel,validé
+725,teeméde fo xarbénahik fo xabétakh,teeméde fo xarbéne nahik fo xabétakh ; teemede fo xarbenahik fo xabetakh ; teemede fo kharbenahik fo khabetakh ; teemede fo xarbene nahik fo xabetakh ; teemede fo kharbene nahik fo khabetakh,1 × 500 F + 40 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+750,teeméde fo xarbéne betik,teeméde fo xarbénbetik ; teemede fo xarbene betik ; teemede fo kharbene betik ; teemede fo xarbenbetik ; teemede fo kharbenbetik,1 × 500 F + 50 × 5 F,ndeye_maguette_officiel,validé
+775,teeméde fo xarbéne betik fo xabétakh,teeméde fo xarbénbetik fo xabétakh ; teemede fo xarbene betik fo xabetakh ; teemede fo kharbene betik fo khabetakh ; teemede fo xarbenbetik fo xabetakh ; teemede fo kharbenbetik fo khabetakh,1 × 500 F + 50 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+800,teeméde fo xarbéne bétou fa leng,teemede fo xarbene betou fa leng ; teemede fo kharbene betou fa leng,1 × 500 F + 60 × 5 F,ndeye_maguette_officiel,validé
+825,teeméde fo xarbéne bétou fa leng fo xabétakh,teemede fo xarbene betou fa leng fo xabetakh ; teemede fo kharbene betou fa leng fo khabetakh,1 × 500 F + 60 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+850,teeméde fo xarbéne bétou dik,teemede fo xarbene betou dik ; teemede fo kharbene betou dik,1 × 500 F + 70 × 5 F,ndeye_maguette_officiel,validé
+875,teeméde fo xarbéne bétou dik fo xabétakh,teemede fo xarbene betou dik fo xabetakh ; teemede fo kharbene betou dik fo khabetakh,1 × 500 F + 70 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+900,teeméde fo xarbéne bétou tadik,teemede fo xarbene betou tadik ; teemede fo kharbene betou tadik,1 × 500 F + 80 × 5 F,ndeye_maguette_officiel,validé
+925,teeméde fo xarbéne bétou tadik fo xabétakh,teemede fo xarbene betou tadik fo xabetakh ; teemede fo kharbene betou tadik fo khabetakh,1 × 500 F + 80 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+950,teeméde fo xarbéne bétou nahik,teemede fo xarbene betou nahik ; teemede fo kharbene betou nahik,1 × 500 F + 90 × 5 F,ndeye_maguette_officiel,validé
+975,teeméde fo xarbéne bétou nahik fo xabétakh,teemede fo xarbene betou nahik fo xabetakh ; teemede fo kharbene betou nahik fo khabetakh,1 × 500 F + 90 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1000,teeméde dik,teeméde ɗik ; teemede dik,2 × 500 F,ndeye_maguette_officiel,validé
+1025,teeméde dik fo xabétakh,teemede dik fo xabetakh ; teemede dik fo khabetakh,2 × 500 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1050,teeméde dik fo xarbaxay,teemede dik fo xarbaxay ; teemede dik fo kharbakhay,2 × 500 F + 10 × 5 F,ndeye_maguette_officiel,validé
+1075,teeméde dik fo xarbaxay fo xabétakh,teemede dik fo xarbaxay fo xabetakh ; teemede dik fo kharbakhay fo khabetakh,2 × 500 F + 10 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1100,teeméde dik fo xarbéndik,teeméde dik fo xarbéne dik ; teemede dik fo xarbendik ; teemede dik fo kharbendik ; teemede dik fo xarbene dik ; teemede dik fo kharbene dik,2 × 500 F + 20 × 5 F,ndeye_maguette_officiel,validé
+1125,teeméde dik fo xarbéndik fo xabétakh,teeméde dik fo xarbéne dik fo xabétakh ; teemede dik fo xarbendik fo xabetakh ; teemede dik fo kharbendik fo khabetakh ; teemede dik fo xarbene dik fo xabetakh ; teemede dik fo kharbene dik fo khabetakh,2 × 500 F + 20 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1150,teeméde dik fo xarbéntadik,teeméde dik fo xarbéne tadik ; teemede dik fo xarbentadik ; teemede dik fo kharbentadik ; teemede dik fo xarbene tadik ; teemede dik fo kharbene tadik,2 × 500 F + 30 × 5 F,ndeye_maguette_officiel,validé
+1175,teeméde dik fo xarbéntadik fo xabétakh,teeméde dik fo xarbéne tadik fo xabétakh ; teemede dik fo xarbentadik fo xabetakh ; teemede dik fo kharbentadik fo khabetakh ; teemede dik fo xarbene tadik fo xabetakh ; teemede dik fo kharbene tadik fo khabetakh,2 × 500 F + 30 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1200,teeméde dik fo xarbénahik,teeméde dik fo xarbéne nahik ; teemede dik fo xarbenahik ; teemede dik fo kharbenahik ; teemede dik fo xarbene nahik ; teemede dik fo kharbene nahik,2 × 500 F + 40 × 5 F,ndeye_maguette_officiel,validé
+1225,teeméde dik fo xarbénahik fo xabétakh,teeméde dik fo xarbéne nahik fo xabétakh ; teemede dik fo xarbenahik fo xabetakh ; teemede dik fo kharbenahik fo khabetakh ; teemede dik fo xarbene nahik fo xabetakh ; teemede dik fo kharbene nahik fo khabetakh,2 × 500 F + 40 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1250,teeméde dik fo xarbéne betik,teeméde dik fo xarbénbetik ; teemede dik fo xarbene betik ; teemede dik fo kharbene betik ; teemede dik fo xarbenbetik ; teemede dik fo kharbenbetik,2 × 500 F + 50 × 5 F,ndeye_maguette_officiel,validé
+1275,teeméde dik fo xarbéne betik fo xabétakh,teeméde dik fo xarbénbetik fo xabétakh ; teemede dik fo xarbene betik fo xabetakh ; teemede dik fo kharbene betik fo khabetakh ; teemede dik fo xarbenbetik fo xabetakh ; teemede dik fo kharbenbetik fo khabetakh,2 × 500 F + 50 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1300,teeméde dik fo xarbéne bétou fa leng,teemede dik fo xarbene betou fa leng ; teemede dik fo kharbene betou fa leng,2 × 500 F + 60 × 5 F,ndeye_maguette_officiel,validé
+1325,teeméde dik fo xarbéne bétou fa leng fo xabétakh,teemede dik fo xarbene betou fa leng fo xabetakh ; teemede dik fo kharbene betou fa leng fo khabetakh,2 × 500 F + 60 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1350,teeméde dik fo xarbéne bétou dik,teemede dik fo xarbene betou dik ; teemede dik fo kharbene betou dik,2 × 500 F + 70 × 5 F,ndeye_maguette_officiel,validé
+1375,teeméde dik fo xarbéne bétou dik fo xabétakh,teemede dik fo xarbene betou dik fo xabetakh ; teemede dik fo kharbene betou dik fo khabetakh,2 × 500 F + 70 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1400,teeméde dik fo xarbéne bétou tadik,teemede dik fo xarbene betou tadik ; teemede dik fo kharbene betou tadik,2 × 500 F + 80 × 5 F,ndeye_maguette_officiel,validé
+1425,teeméde dik fo xarbéne bétou tadik fo xabétakh,teemede dik fo xarbene betou tadik fo xabetakh ; teemede dik fo kharbene betou tadik fo khabetakh,2 × 500 F + 80 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1450,teeméde dik fo xarbéne bétou nahik,teemede dik fo xarbene betou nahik ; teemede dik fo kharbene betou nahik,2 × 500 F + 90 × 5 F,ndeye_maguette_officiel,validé
+1475,teeméde dik fo xarbéne bétou nahik fo xabétakh,teemede dik fo xarbene betou nahik fo xabetakh ; teemede dik fo kharbene betou nahik fo khabetakh,2 × 500 F + 90 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1500,teeméde tadik,teemede tadik,3 × 500 F,ndeye_maguette_officiel,validé
+1525,teeméde tadik fo xabétakh,teemede tadik fo xabetakh ; teemede tadik fo khabetakh,3 × 500 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1550,teeméde tadik fo xarbaxay,teemede tadik fo xarbaxay ; teemede tadik fo kharbakhay,3 × 500 F + 10 × 5 F,ndeye_maguette_officiel,validé
+1575,teeméde tadik fo xarbaxay fo xabétakh,teemede tadik fo xarbaxay fo xabetakh ; teemede tadik fo kharbakhay fo khabetakh,3 × 500 F + 10 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1600,teeméde tadik fo xarbéndik,teeméde tadik fo xarbéne dik ; teemede tadik fo xarbendik ; teemede tadik fo kharbendik ; teemede tadik fo xarbene dik ; teemede tadik fo kharbene dik,3 × 500 F + 20 × 5 F,ndeye_maguette_officiel,validé
+1625,teeméde tadik fo xarbéndik fo xabétakh,teeméde tadik fo xarbéne dik fo xabétakh ; teemede tadik fo xarbendik fo xabetakh ; teemede tadik fo kharbendik fo khabetakh ; teemede tadik fo xarbene dik fo xabetakh ; teemede tadik fo kharbene dik fo khabetakh,3 × 500 F + 20 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1650,teeméde tadik fo xarbéntadik,teeméde tadik fo xarbéne tadik ; teemede tadik fo xarbentadik ; teemede tadik fo kharbentadik ; teemede tadik fo xarbene tadik ; teemede tadik fo kharbene tadik,3 × 500 F + 30 × 5 F,ndeye_maguette_officiel,validé
+1675,teeméde tadik fo xarbéntadik fo xabétakh,teeméde tadik fo xarbéne tadik fo xabétakh ; teemede tadik fo xarbentadik fo xabetakh ; teemede tadik fo kharbentadik fo khabetakh ; teemede tadik fo xarbene tadik fo xabetakh ; teemede tadik fo kharbene tadik fo khabetakh,3 × 500 F + 30 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1700,teeméde tadik fo xarbénahik,teeméde tadik fo xarbéne nahik ; teemede tadik fo xarbenahik ; teemede tadik fo kharbenahik ; teemede tadik fo xarbene nahik ; teemede tadik fo kharbene nahik,3 × 500 F + 40 × 5 F,ndeye_maguette_officiel,validé
+1725,teeméde tadik fo xarbénahik fo xabétakh,teeméde tadik fo xarbéne nahik fo xabétakh ; teemede tadik fo xarbenahik fo xabetakh ; teemede tadik fo kharbenahik fo khabetakh ; teemede tadik fo xarbene nahik fo xabetakh ; teemede tadik fo kharbene nahik fo khabetakh,3 × 500 F + 40 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1750,teeméde tadik fo xarbéne betik,teeméde tadik fo xarbénbetik ; teemede tadik fo xarbene betik ; teemede tadik fo kharbene betik ; teemede tadik fo xarbenbetik ; teemede tadik fo kharbenbetik,3 × 500 F + 50 × 5 F,ndeye_maguette_officiel,validé
+1775,teeméde tadik fo xarbéne betik fo xabétakh,teeméde tadik fo xarbénbetik fo xabétakh ; teemede tadik fo xarbene betik fo xabetakh ; teemede tadik fo kharbene betik fo khabetakh ; teemede tadik fo xarbenbetik fo xabetakh ; teemede tadik fo kharbenbetik fo khabetakh,3 × 500 F + 50 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1800,teeméde tadik fo xarbéne bétou fa leng,teemede tadik fo xarbene betou fa leng ; teemede tadik fo kharbene betou fa leng,3 × 500 F + 60 × 5 F,ndeye_maguette_officiel,validé
+1825,teeméde tadik fo xarbéne bétou fa leng fo xabétakh,teemede tadik fo xarbene betou fa leng fo xabetakh ; teemede tadik fo kharbene betou fa leng fo khabetakh,3 × 500 F + 60 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1850,teeméde tadik fo xarbéne bétou dik,teemede tadik fo xarbene betou dik ; teemede tadik fo kharbene betou dik,3 × 500 F + 70 × 5 F,ndeye_maguette_officiel,validé
+1875,teeméde tadik fo xarbéne bétou dik fo xabétakh,teemede tadik fo xarbene betou dik fo xabetakh ; teemede tadik fo kharbene betou dik fo khabetakh,3 × 500 F + 70 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1900,teeméde tadik fo xarbéne bétou tadik,teemede tadik fo xarbene betou tadik ; teemede tadik fo kharbene betou tadik,3 × 500 F + 80 × 5 F,ndeye_maguette_officiel,validé
+1925,teeméde tadik fo xarbéne bétou tadik fo xabétakh,teemede tadik fo xarbene betou tadik fo xabetakh ; teemede tadik fo kharbene betou tadik fo khabetakh,3 × 500 F + 80 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+1950,teeméde tadik fo xarbéne bétou nahik,teemede tadik fo xarbene betou nahik ; teemede tadik fo kharbene betou nahik,3 × 500 F + 90 × 5 F,ndeye_maguette_officiel,validé
+1975,teeméde tadik fo xarbéne bétou nahik fo xabétakh,teemede tadik fo xarbene betou nahik fo xabetakh ; teemede tadik fo kharbene betou nahik fo khabetakh,3 × 500 F + 90 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+2000,teeméde nahik,teemede nahik,4 × 500 F,ndeye_maguette_officiel,validé
+2025,teeméde nahik fo xabétakh,teemede nahik fo xabetakh ; teemede nahik fo khabetakh,4 × 500 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+2050,teeméde nahik fo xarbaxay,teemede nahik fo xarbaxay ; teemede nahik fo kharbakhay,4 × 500 F + 10 × 5 F,ndeye_maguette_officiel,validé
+2075,teeméde nahik fo xarbaxay fo xabétakh,teemede nahik fo xarbaxay fo xabetakh ; teemede nahik fo kharbakhay fo khabetakh,4 × 500 F + 10 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+2100,teeméde nahik fo xarbéndik,teeméde nahik fo xarbéne dik ; teemede nahik fo xarbendik ; teemede nahik fo kharbendik ; teemede nahik fo xarbene dik ; teemede nahik fo kharbene dik,4 × 500 F + 20 × 5 F,ndeye_maguette_officiel,validé
+2125,teeméde nahik fo xarbéndik fo xabétakh,teeméde nahik fo xarbéne dik fo xabétakh ; teemede nahik fo xarbendik fo xabetakh ; teemede nahik fo kharbendik fo khabetakh ; teemede nahik fo xarbene dik fo xabetakh ; teemede nahik fo kharbene dik fo khabetakh,4 × 500 F + 20 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+2150,teeméde nahik fo xarbéntadik,teeméde nahik fo xarbéne tadik ; teemede nahik fo xarbentadik ; teemede nahik fo kharbentadik ; teemede nahik fo xarbene tadik ; teemede nahik fo kharbene tadik,4 × 500 F + 30 × 5 F,ndeye_maguette_officiel,validé
+2175,teeméde nahik fo xarbéntadik fo xabétakh,teeméde nahik fo xarbéne tadik fo xabétakh ; teemede nahik fo xarbentadik fo xabetakh ; teemede nahik fo kharbentadik fo khabetakh ; teemede nahik fo xarbene tadik fo xabetakh ; teemede nahik fo kharbene tadik fo khabetakh,4 × 500 F + 30 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+2200,teeméde nahik fo xarbénahik,teeméde nahik fo xarbéne nahik ; teemede nahik fo xarbenahik ; teemede nahik fo kharbenahik ; teemede nahik fo xarbene nahik ; teemede nahik fo kharbene nahik,4 × 500 F + 40 × 5 F,ndeye_maguette_officiel,validé
+2225,teeméde nahik fo xarbénahik fo xabétakh,teeméde nahik fo xarbéne nahik fo xabétakh ; teemede nahik fo xarbenahik fo xabetakh ; teemede nahik fo kharbenahik fo khabetakh ; teemede nahik fo xarbene nahik fo xabetakh ; teemede nahik fo kharbene nahik fo khabetakh,4 × 500 F + 40 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+2250,teeméde nahik fo xarbéne betik,teeméde nahik fo xarbénbetik ; teemede nahik fo xarbene betik ; teemede nahik fo kharbene betik ; teemede nahik fo xarbenbetik ; teemede nahik fo kharbenbetik,4 × 500 F + 50 × 5 F,ndeye_maguette_officiel,validé
+2275,teeméde nahik fo xarbéne betik fo xabétakh,teeméde nahik fo xarbénbetik fo xabétakh ; teemede nahik fo xarbene betik fo xabetakh ; teemede nahik fo kharbene betik fo khabetakh ; teemede nahik fo xarbenbetik fo xabetakh ; teemede nahik fo kharbenbetik fo khabetakh,4 × 500 F + 50 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+2300,teeméde nahik fo xarbéne bétou fa leng,teemede nahik fo xarbene betou fa leng ; teemede nahik fo kharbene betou fa leng,4 × 500 F + 60 × 5 F,ndeye_maguette_officiel,validé
+2325,teeméde nahik fo xarbéne bétou fa leng fo xabétakh,teemede nahik fo xarbene betou fa leng fo xabetakh ; teemede nahik fo kharbene betou fa leng fo khabetakh,4 × 500 F + 60 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+2350,teeméde nahik fo xarbéne bétou dik,teemede nahik fo xarbene betou dik ; teemede nahik fo kharbene betou dik,4 × 500 F + 70 × 5 F,ndeye_maguette_officiel,validé
+2375,teeméde nahik fo xarbéne bétou dik fo xabétakh,teemede nahik fo xarbene betou dik fo xabetakh ; teemede nahik fo kharbene betou dik fo khabetakh,4 × 500 F + 70 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+2400,teeméde nahik fo xarbéne bétou tadik,teemede nahik fo xarbene betou tadik ; teemede nahik fo kharbene betou tadik,4 × 500 F + 80 × 5 F,ndeye_maguette_officiel,validé
+2425,teeméde nahik fo xarbéne bétou tadik fo xabétakh,teemede nahik fo xarbene betou tadik fo xabetakh ; teemede nahik fo kharbene betou tadik fo khabetakh,4 × 500 F + 80 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+2450,teeméde nahik fo xarbéne bétou nahik,teemede nahik fo xarbene betou nahik ; teemede nahik fo kharbene betou nahik,4 × 500 F + 90 × 5 F,ndeye_maguette_officiel,validé
+2475,teeméde nahik fo xarbéne bétou nahik fo xabétakh,teemede nahik fo xarbene betou nahik fo xabetakh ; teemede nahik fo kharbene betou nahik fo khabetakh,4 × 500 F + 90 × 5 F + 25 F (xabétakh),ndeye_maguette_officiel,validé
+2500,teeméde betik,teemede betik,5 × 500 F,ndeye_maguette_officiel,validé
+10000,thiouni dik,,2 × 5 000 F,ndeye_maguette_officiel,validé
+20000,thiouni nahik,,4 × 5 000 F,ndeye_maguette_officiel,validé
+30000,thiouni bétou fa leng,thiouni betou fa leng,6 × 5 000 F,ndeye_maguette_officiel,validé
+40000,thiouni bétou tadik,thiouni betou tadik,8 × 5 000 F,ndeye_maguette_officiel,validé
+50000,thiouni xarbaxay,thiouni kharbakhay,10 × 5 000 F,ndeye_maguette_officiel,validé
+60000,thiouni xarbaxay fo dik,thiouni kharbakhay fo dik,12 × 5 000 F,ndeye_maguette_officiel,validé
+70000,thiouni xarbaxay fo nahik,thiouni kharbakhay fo nahik,14 × 5 000 F,ndeye_maguette_officiel,validé
+80000,thiouni xarbaxay fo bétou fa leng,thiouni xarbaxay fo betou fa leng ; thiouni kharbakhay fo betou fa leng,16 × 5 000 F,ndeye_maguette_officiel,validé
+90000,thiouni xarbaxay fo bétou tadik,thiouni xarbaxay fo betou tadik ; thiouni kharbakhay fo betou tadik,18 × 5 000 F,ndeye_maguette_officiel,validé
+100000,thiouni xarbéndik,thiouni xarbéne dik ; thiouni xarbendik ; thiouni kharbendik ; thiouni xarbene dik ; thiouni kharbene dik,20 × 5 000 F,ndeye_maguette_officiel,validé
+150000,thiouni xarbéne tadik,thiouni xarbéntadik ; thiouni xarbene tadik ; thiouni kharbene tadik ; thiouni xarbentadik ; thiouni kharbentadik,30 × 5 000 F,ndeye_maguette_officiel,validé

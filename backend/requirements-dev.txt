@@ -1,0 +1,11 @@
+# Dépendances pour lancer `pytest backend/tests`, EN PLUS de requirements.txt.
+#
+# Volontairement minimal : les tests mockent Kiriku (torch/transformers/TTS)
+# et WhatsApp, donc backend/tests passe sans installer la pile ML complète.
+# `pip install fastapi pydantic python-dotenv python-multipart httpx
+# huggingface_hub apscheduler soundfile scipy openai num2words "text2num<3"
+# -r requirements-dev.txt` suffit pour exécuter
+# la suite ; il faut `-r requirements.txt` (torch/transformers/TTS/librosa)
+# uniquement pour FAIRE TOURNER le serveur avec les vrais modèles.
+pytest
+respx

@@ -1,0 +1,112 @@
+montant_fcfa,forme,variantes,logique,source,statut
+25,juróom dërëm,juroom derem ; juróomi dërëm,5 dërëm (5 × 5 FCFA),ndeye_maguette_officiel,validé
+50,fukki dërëm,fukki derem ; fukk dërëm,10 dërëm (10 × 5 FCFA),ndeye_maguette_officiel,validé
+75,fukk ak juróom dërëm,fukk ak juroom derem,15 dërëm (15 × 5 FCFA),ndeye_maguette_officiel,validé
+100,ñaar-fukki dërëm,naar-fukki derem ; ñaar fukk dërëm,20 dërëm (20 × 5 FCFA),ndeye_maguette_officiel,validé
+125,ñaar-fukk ak juróom dërëm,naar-fukk ak juroom derem,25 dërëm (25 × 5 FCFA),ndeye_maguette_officiel,validé
+150,fanweeri dërëm,fanweri derem ; fanweer dërëm,30 dërëm (30 × 5 FCFA),ndeye_maguette_officiel,validé
+175,fanweer ak juróom dërëm,fanwer ak juroom derem,35 dërëm (35 × 5 FCFA),ndeye_maguette_officiel,validé
+200,ñent-fukki dërëm,nent-fukki derem ; ñent fukk dërëm,40 dërëm (40 × 5 FCFA),ndeye_maguette_officiel,validé
+225,ñent-fukk ak juróom dërëm,nent-fukk ak juroom derem,45 dërëm (45 × 5 FCFA),ndeye_maguette_officiel,validé
+250,juróom-fukki dërëm,juroom-fukki derem ; juróom fukk dërëm,50 dërëm (50 × 5 FCFA),ndeye_maguette_officiel,validé
+275,juróom-fukk ak juróom dërëm,juroom-fukk ak juroom derem,55 dërëm (55 × 5 FCFA),ndeye_maguette_officiel,validé
+300,juróom-benn-fukki dërëm,juroom-benn-fukki derem,60 dërëm (60 × 5 FCFA),ndeye_maguette_officiel,validé
+325,juróom-benn-fukk ak juróom dërëm,juroom-benn-fukk ak juroom derem,65 dërëm (65 × 5 FCFA),ndeye_maguette_officiel,validé
+350,juróom-ñaar-fukki dërëm,juroom-naar-fukki derem,70 dërëm (70 × 5 FCFA),ndeye_maguette_officiel,validé
+375,juróom-ñaar-fukk ak juróom dërëm,juroom-naar-fukk ak juroom derem,75 dërëm (75 × 5 FCFA),ndeye_maguette_officiel,validé
+400,juróom-ñett-fukki dërëm,juroom-nett-fukki derem,80 dërëm (80 × 5 FCFA),ndeye_maguette_officiel,validé
+425,juróom-ñett-fukk ak juróom dërëm,juroom-nett-fukk ak juroom derem,85 dërëm (85 × 5 FCFA),ndeye_maguette_officiel,validé
+450,juróom-ñent-fukki dërëm,juroom-nent-fukki derem,90 dërëm (90 × 5 FCFA),ndeye_maguette_officiel,validé
+475,juróom-ñent-fukk ak juróom dërëm,juroom-nent-fukk ak juroom derem,95 dërëm (95 × 5 FCFA),ndeye_maguette_officiel,validé
+500,téeméer,teemeer ; téeméeri dërëm,1 × 500 FCFA (100 dërëm),ndeye_maguette_officiel,validé
+525,téeméer ak juróom dërëm,teemeer ak juroom derem ; juróomi dërëm,1 × 500 FCFA + 25 FCFA (100 + 5 dërëm),ndeye_maguette_officiel,validé
+550,téeméer ak fukki dërëm,teemeer ak fukki derem ; fukk dërëm,1 × 500 FCFA + 50 FCFA (100 + 10 dërëm),ndeye_maguette_officiel,validé
+575,téeméer ak fukk ak juróom dërëm,teemeer ak fukk ak juroom derem,1 × 500 FCFA + 75 FCFA (100 + 15 dërëm),ndeye_maguette_officiel,validé
+600,téeméer ak ñaar-fukki dërëm,teemeer ak naar-fukki derem ; ñaar fukk dërëm,1 × 500 FCFA + 100 FCFA (100 + 20 dërëm),ndeye_maguette_officiel,validé
+625,téeméer ak ñaar-fukk ak juróom dërëm,teemeer ak naar-fukk ak juroom derem,1 × 500 FCFA + 125 FCFA (100 + 25 dërëm),ndeye_maguette_officiel,validé
+650,téeméer ak fanweeri dërëm,teemeer ak fanweri derem ; fanweer dërëm,1 × 500 FCFA + 150 FCFA (100 + 30 dërëm),ndeye_maguette_officiel,validé
+675,téeméer ak fanweer ak juróom dërëm,teemeer ak fanwer ak juroom derem,1 × 500 FCFA + 175 FCFA (100 + 35 dërëm),ndeye_maguette_officiel,validé
+700,téeméer ak ñent-fukki dërëm,teemeer ak nent-fukki derem ; ñent fukk dërëm,1 × 500 FCFA + 200 FCFA (100 + 40 dërëm),ndeye_maguette_officiel,validé
+725,téeméer ak ñent-fukk ak juróom dërëm,teemeer ak nent-fukk ak juroom derem,1 × 500 FCFA + 225 FCFA (100 + 45 dërëm),ndeye_maguette_officiel,validé
+750,téeméer ak juróom-fukki dërëm,teemeer ak juroom-fukki derem ; juróom fukk dërëm,1 × 500 FCFA + 250 FCFA (100 + 50 dërëm),ndeye_maguette_officiel,validé
+775,téeméer ak juróom-fukk ak juróom dërëm,teemeer ak juroom-fukk ak juroom derem,1 × 500 FCFA + 275 FCFA (100 + 55 dërëm),ndeye_maguette_officiel,validé
+800,téeméer ak juróom-benn-fukki dërëm,teemeer ak juroom-benn-fukki derem,1 × 500 FCFA + 300 FCFA (100 + 60 dërëm),ndeye_maguette_officiel,validé
+825,téeméer ak juróom-benn-fukk ak juróom dërëm,teemeer ak juroom-benn-fukk ak juroom derem,1 × 500 FCFA + 325 FCFA (100 + 65 dërëm),ndeye_maguette_officiel,validé
+850,téeméer ak juróom-ñaar-fukki dërëm,teemeer ak juroom-naar-fukki derem,1 × 500 FCFA + 350 FCFA (100 + 70 dërëm),ndeye_maguette_officiel,validé
+875,téeméer ak juróom-ñaar-fukk ak juróom dërëm,teemeer ak juroom-naar-fukk ak juroom derem,1 × 500 FCFA + 375 FCFA (100 + 75 dërëm),ndeye_maguette_officiel,validé
+900,téeméer ak juróom-ñett-fukki dërëm,teemeer ak juroom-nett-fukki derem,1 × 500 FCFA + 400 FCFA (100 + 80 dërëm),ndeye_maguette_officiel,validé
+925,téeméer ak juróom-ñett-fukk ak juróom dërëm,teemeer ak juroom-nett-fukk ak juroom derem,1 × 500 FCFA + 425 FCFA (100 + 85 dërëm),ndeye_maguette_officiel,validé
+950,téeméer ak juróom-ñent-fukki dërëm,teemeer ak juroom-nent-fukki derem,1 × 500 FCFA + 450 FCFA (100 + 90 dërëm),ndeye_maguette_officiel,validé
+975,téeméer ak juróom-ñent-fukk ak juróom dërëm,teemeer ak juroom-nent-fukk ak juroom derem,1 × 500 FCFA + 475 FCFA (100 + 95 dërëm),ndeye_maguette_officiel,validé
+1000,ñaari téeméer,naari teemeer ; ñaari téeméeri dërëm,2 × 500 FCFA (200 dërëm),ndeye_maguette_officiel,validé
+1025,ñaari téeméer ak juróom dërëm,naari teemeer ak juroom derem ; juróomi dërëm,2 × 500 FCFA + 25 FCFA (200 + 5 dërëm),ndeye_maguette_officiel,validé
+1050,ñaari téeméer ak fukki dërëm,naari teemeer ak fukki derem ; fukk dërëm,2 × 500 FCFA + 50 FCFA (200 + 10 dërëm),ndeye_maguette_officiel,validé
+1075,ñaari téeméer ak fukk ak juróom dërëm,naari teemeer ak fukk ak juroom derem,2 × 500 FCFA + 75 FCFA (200 + 15 dërëm),ndeye_maguette_officiel,validé
+1100,ñaari téeméer ak ñaar-fukki dërëm,naari teemeer ak naar-fukki derem ; ñaar fukk dërëm,2 × 500 FCFA + 100 FCFA (200 + 20 dërëm),ndeye_maguette_officiel,validé
+1125,ñaari téeméer ak ñaar-fukk ak juróom dërëm,naari teemeer ak naar-fukk ak juroom derem,2 × 500 FCFA + 125 FCFA (200 + 25 dërëm),ndeye_maguette_officiel,validé
+1150,ñaari téeméer ak fanweeri dërëm,naari teemeer ak fanweri derem ; fanweer dërëm,2 × 500 FCFA + 150 FCFA (200 + 30 dërëm),ndeye_maguette_officiel,validé
+1175,ñaari téeméer ak fanweer ak juróom dërëm,naari teemeer ak fanwer ak juroom derem,2 × 500 FCFA + 175 FCFA (200 + 35 dërëm),ndeye_maguette_officiel,validé
+1200,ñaari téeméer ak ñent-fukki dërëm,naari teemeer ak nent-fukki derem ; ñent fukk dërëm,2 × 500 FCFA + 200 FCFA (200 + 40 dërëm),ndeye_maguette_officiel,validé
+1225,ñaari téeméer ak ñent-fukk ak juróom dërëm,naari teemeer ak nent-fukk ak juroom derem,2 × 500 FCFA + 225 FCFA (200 + 45 dërëm),ndeye_maguette_officiel,validé
+1250,ñaari téeméer ak juróom-fukki dërëm,naari teemeer ak juroom-fukki derem ; juróom fukk dërëm,2 × 500 FCFA + 250 FCFA (200 + 50 dërëm),ndeye_maguette_officiel,validé
+1275,ñaari téeméer ak juróom-fukk ak juróom dërëm,naari teemeer ak juroom-fukk ak juroom derem,2 × 500 FCFA + 275 FCFA (200 + 55 dërëm),ndeye_maguette_officiel,validé
+1300,ñaari téeméer ak juróom-benn-fukki dërëm,naari teemeer ak juroom-benn-fukki derem,2 × 500 FCFA + 300 FCFA (200 + 60 dërëm),ndeye_maguette_officiel,validé
+1325,ñaari téeméer ak juróom-benn-fukk ak juróom dërëm,naari teemeer ak juroom-benn-fukk ak juroom derem,2 × 500 FCFA + 325 FCFA (200 + 65 dërëm),ndeye_maguette_officiel,validé
+1350,ñaari téeméer ak juróom-ñaar-fukki dërëm,naari teemeer ak juroom-naar-fukki derem,2 × 500 FCFA + 350 FCFA (200 + 70 dërëm),ndeye_maguette_officiel,validé
+1375,ñaari téeméer ak juróom-ñaar-fukk ak juróom dërëm,naari teemeer ak juroom-naar-fukk ak juroom derem,2 × 500 FCFA + 375 FCFA (200 + 75 dërëm),ndeye_maguette_officiel,validé
+1400,ñaari téeméer ak juróom-ñett-fukki dërëm,naari teemeer ak juroom-nett-fukki derem,2 × 500 FCFA + 400 FCFA (200 + 80 dërëm),ndeye_maguette_officiel,validé
+1425,ñaari téeméer ak juróom-ñett-fukk ak juróom dërëm,naari teemeer ak juroom-nett-fukk ak juroom derem,2 × 500 FCFA + 425 FCFA (200 + 85 dërëm),ndeye_maguette_officiel,validé
+1450,ñaari téeméer ak juróom-ñent-fukki dërëm,naari teemeer ak juroom-nent-fukki derem,2 × 500 FCFA + 450 FCFA (200 + 90 dërëm),ndeye_maguette_officiel,validé
+1475,ñaari téeméer ak juróom-ñent-fukk ak juróom dërëm,naari teemeer ak juroom-nent-fukk ak juroom derem,2 × 500 FCFA + 475 FCFA (200 + 95 dërëm),ndeye_maguette_officiel,validé
+1500,ñetti téeméer,netti teemeer,3 × 500 FCFA (300 dërëm),ndeye_maguette_officiel,validé
+1525,ñetti téeméer ak juróom dërëm,netti teemeer ak juroom derem ; juróomi dërëm,3 × 500 FCFA + 25 FCFA (300 + 5 dërëm),ndeye_maguette_officiel,validé
+1550,ñetti téeméer ak fukki dërëm,netti teemeer ak fukki derem ; fukk dërëm,3 × 500 FCFA + 50 FCFA (300 + 10 dërëm),ndeye_maguette_officiel,validé
+1575,ñetti téeméer ak fukk ak juróom dërëm,netti teemeer ak fukk ak juroom derem,3 × 500 FCFA + 75 FCFA (300 + 15 dërëm),ndeye_maguette_officiel,validé
+1600,ñetti téeméer ak ñaar-fukki dërëm,netti teemeer ak naar-fukki derem ; ñaar fukk dërëm,3 × 500 FCFA + 100 FCFA (300 + 20 dërëm),ndeye_maguette_officiel,validé
+1625,ñetti téeméer ak ñaar-fukk ak juróom dërëm,netti teemeer ak naar-fukk ak juroom derem,3 × 500 FCFA + 125 FCFA (300 + 25 dërëm),ndeye_maguette_officiel,validé
+1650,ñetti téeméer ak fanweeri dërëm,netti teemeer ak fanweri derem ; fanweer dërëm,3 × 500 FCFA + 150 FCFA (300 + 30 dërëm),ndeye_maguette_officiel,validé
+1675,ñetti téeméer ak fanweer ak juróom dërëm,netti teemeer ak fanwer ak juroom derem,3 × 500 FCFA + 175 FCFA (300 + 35 dërëm),ndeye_maguette_officiel,validé
+1700,ñetti téeméer ak ñent-fukki dërëm,netti teemeer ak nent-fukki derem ; ñent fukk dërëm,3 × 500 FCFA + 200 FCFA (300 + 40 dërëm),ndeye_maguette_officiel,validé
+1725,ñetti téeméer ak ñent-fukk ak juróom dërëm,netti teemeer ak nent-fukk ak juroom derem,3 × 500 FCFA + 225 FCFA (300 + 45 dërëm),ndeye_maguette_officiel,validé
+1750,ñetti téeméer ak juróom-fukki dërëm,netti teemeer ak juroom-fukki derem ; juróom fukk dërëm,3 × 500 FCFA + 250 FCFA (300 + 50 dërëm),ndeye_maguette_officiel,validé
+1775,ñetti téeméer ak juróom-fukk ak juróom dërëm,netti teemeer ak juroom-fukk ak juroom derem,3 × 500 FCFA + 275 FCFA (300 + 55 dërëm),ndeye_maguette_officiel,validé
+1800,ñetti téeméer ak juróom-benn-fukki dërëm,netti teemeer ak juroom-benn-fukki derem,3 × 500 FCFA + 300 FCFA (300 + 60 dërëm),ndeye_maguette_officiel,validé
+1825,ñetti téeméer ak juróom-benn-fukk ak juróom dërëm,netti teemeer ak juroom-benn-fukk ak juroom derem,3 × 500 FCFA + 325 FCFA (300 + 65 dërëm),ndeye_maguette_officiel,validé
+1850,ñetti téeméer ak juróom-ñaar-fukki dërëm,netti teemeer ak juroom-naar-fukki derem,3 × 500 FCFA + 350 FCFA (300 + 70 dërëm),ndeye_maguette_officiel,validé
+1875,ñetti téeméer ak juróom-ñaar-fukk ak juróom dërëm,netti teemeer ak juroom-naar-fukk ak juroom derem,3 × 500 FCFA + 375 FCFA (300 + 75 dërëm),ndeye_maguette_officiel,validé
+1900,ñetti téeméer ak juróom-ñett-fukki dërëm,netti teemeer ak juroom-nett-fukki derem,3 × 500 FCFA + 400 FCFA (300 + 80 dërëm),ndeye_maguette_officiel,validé
+1925,ñetti téeméer ak juróom-ñett-fukk ak juróom dërëm,netti teemeer ak juroom-nett-fukk ak juroom derem,3 × 500 FCFA + 425 FCFA (300 + 85 dërëm),ndeye_maguette_officiel,validé
+1950,ñetti téeméer ak juróom-ñent-fukki dërëm,netti teemeer ak juroom-nent-fukki derem,3 × 500 FCFA + 450 FCFA (300 + 90 dërëm),ndeye_maguette_officiel,validé
+1975,ñetti téeméer ak juróom-ñent-fukk ak juróom dërëm,netti teemeer ak juroom-nent-fukk ak juroom derem,3 × 500 FCFA + 475 FCFA (300 + 95 dërëm),ndeye_maguette_officiel,validé
+2000,ñenti téeméer,nenti teemeer,4 × 500 FCFA (400 dërëm),ndeye_maguette_officiel,validé
+2025,ñenti téeméer ak juróom dërëm,nenti teemeer ak juroom derem ; juróomi dërëm,4 × 500 FCFA + 25 FCFA (400 + 5 dërëm),ndeye_maguette_officiel,validé
+2050,ñenti téeméer ak fukki dërëm,nenti teemeer ak fukki derem ; fukk dërëm,4 × 500 FCFA + 50 FCFA (400 + 10 dërëm),ndeye_maguette_officiel,validé
+2075,ñenti téeméer ak fukk ak juróom dërëm,nenti teemeer ak fukk ak juroom derem,4 × 500 FCFA + 75 FCFA (400 + 15 dërëm),ndeye_maguette_officiel,validé
+2100,ñenti téeméer ak ñaar-fukki dërëm,nenti teemeer ak naar-fukki derem ; ñaar fukk dërëm,4 × 500 FCFA + 100 FCFA (400 + 20 dërëm),ndeye_maguette_officiel,validé
+2125,ñenti téeméer ak ñaar-fukk ak juróom dërëm,nenti teemeer ak naar-fukk ak juroom derem,4 × 500 FCFA + 125 FCFA (400 + 25 dërëm),ndeye_maguette_officiel,validé
+2150,ñenti téeméer ak fanweeri dërëm,nenti teemeer ak fanweri derem ; fanweer dërëm,4 × 500 FCFA + 150 FCFA (400 + 30 dërëm),ndeye_maguette_officiel,validé
+2175,ñenti téeméer ak fanweer ak juróom dërëm,nenti teemeer ak fanwer ak juroom derem,4 × 500 FCFA + 175 FCFA (400 + 35 dërëm),ndeye_maguette_officiel,validé
+2200,ñenti téeméer ak ñent-fukki dërëm,nenti teemeer ak nent-fukki derem ; ñent fukk dërëm,4 × 500 FCFA + 200 FCFA (400 + 40 dërëm),ndeye_maguette_officiel,validé
+2225,ñenti téeméer ak ñent-fukk ak juróom dërëm,nenti teemeer ak nent-fukk ak juroom derem,4 × 500 FCFA + 225 FCFA (400 + 45 dërëm),ndeye_maguette_officiel,validé
+2250,ñenti téeméer ak juróom-fukki dërëm,nenti teemeer ak juroom-fukki derem ; juróom fukk dërëm,4 × 500 FCFA + 250 FCFA (400 + 50 dërëm),ndeye_maguette_officiel,validé
+2275,ñenti téeméer ak juróom-fukk ak juróom dërëm,nenti teemeer ak juroom-fukk ak juroom derem,4 × 500 FCFA + 275 FCFA (400 + 55 dërëm),ndeye_maguette_officiel,validé
+2300,ñenti téeméer ak juróom-benn-fukki dërëm,nenti teemeer ak juroom-benn-fukki derem,4 × 500 FCFA + 300 FCFA (400 + 60 dërëm),ndeye_maguette_officiel,validé
+2325,ñenti téeméer ak juróom-benn-fukk ak juróom dërëm,nenti teemeer ak juroom-benn-fukk ak juroom derem,4 × 500 FCFA + 325 FCFA (400 + 65 dërëm),ndeye_maguette_officiel,validé
+2350,ñenti téeméer ak juróom-ñaar-fukki dërëm,nenti teemeer ak juroom-naar-fukki derem,4 × 500 FCFA + 350 FCFA (400 + 70 dërëm),ndeye_maguette_officiel,validé
+2375,ñenti téeméer ak juróom-ñaar-fukk ak juróom dërëm,nenti teemeer ak juroom-naar-fukk ak juroom derem,4 × 500 FCFA + 375 FCFA (400 + 75 dërëm),ndeye_maguette_officiel,validé
+2400,ñenti téeméer ak juróom-ñett-fukki dërëm,nenti teemeer ak juroom-nett-fukki derem,4 × 500 FCFA + 400 FCFA (400 + 80 dërëm),ndeye_maguette_officiel,validé
+2425,ñenti téeméer ak juróom-ñett-fukk ak juróom dërëm,nenti teemeer ak juroom-nett-fukk ak juroom derem,4 × 500 FCFA + 425 FCFA (400 + 85 dërëm),ndeye_maguette_officiel,validé
+2450,ñenti téeméer ak juróom-ñent-fukki dërëm,nenti teemeer ak juroom-nent-fukki derem,4 × 500 FCFA + 450 FCFA (400 + 90 dërëm),ndeye_maguette_officiel,validé
+2475,ñenti téeméer ak juróom-ñent-fukk ak juróom dërëm,nenti teemeer ak juroom-nent-fukk ak juroom derem,4 × 500 FCFA + 475 FCFA (400 + 95 dërëm),ndeye_maguette_officiel,validé
+2500,juróomi téeméer,juroomi teemeer,5 × 500 FCFA (500 dërëm),ndeye_maguette_officiel,validé
+10000,ñaari junni,naari junni ; ñaari junne,2 × 5000 FCFA (2000 dërëm),ndeye_maguette_officiel,validé
+20000,ñenti junni,nenti junni,4 × 5000 FCFA (4000 dërëm),ndeye_maguette_officiel,validé
+30000,juróom-benni junni,juroom-benni junni,6 × 5000 FCFA (6000 dërëm),ndeye_maguette_officiel,validé
+40000,juróom-ñetti junni,juroom-netti junni,8 × 5000 FCFA (8000 dërëm),ndeye_maguette_officiel,validé
+50000,fukki junni,foukki junni,10 × 5000 FCFA (10000 dërëm),ndeye_maguette_officiel,validé
+60000,fukk ak ñaari junni,fukk ak naari junni,12 × 5000 FCFA (12000 dërëm),ndeye_maguette_officiel,validé
+70000,fukk ak ñenti junni,fukk ak nenti junni,14 × 5000 FCFA (14000 dërëm),ndeye_maguette_officiel,validé
+80000,fukk ak juróom-benni junni,fukk ak juroom-benni junni,16 × 5000 FCFA (16000 dërëm),ndeye_maguette_officiel,validé
+90000,fukk ak juróom-ñetti junni,fukk ak juroom-netti junni,18 × 5000 FCFA (18000 dërëm),ndeye_maguette_officiel,validé
+100000,ñaar-fukki junni,naar-fukki junni,20 × 5000 FCFA (20000 dërëm),ndeye_maguette_officiel,validé
+150000,fanweeri junni,fanweri junni ; fanweer junni,30 × 5000 FCFA (30000 dërëm),ndeye_maguette_officiel,validé

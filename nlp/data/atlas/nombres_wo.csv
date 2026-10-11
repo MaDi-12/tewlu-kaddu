@@ -1,0 +1,101 @@
+valeur,forme,variantes,source,statut
+1,benn,ben,ndeye_maguette_officiel,validé
+2,ñaar,naar ; gnaar,ndeye_maguette_officiel,validé
+3,ñett,nett ; gnett ; ñatt,ndeye_maguette_officiel,validé
+4,ñent,nent ; gnent,ndeye_maguette_officiel,validé
+5,juróom,juroom ; diourom,ndeye_maguette_officiel,validé
+6,juróom-benn,juroom-benn ; juróom benn,ndeye_maguette_officiel,validé
+7,juróom-ñaar,juroom-naar ; juróom ñaar,ndeye_maguette_officiel,validé
+8,juróom-ñett,juroom-nett ; juróom ñett,ndeye_maguette_officiel,validé
+9,juróom-ñent,juroom-nent ; juróom ñent,ndeye_maguette_officiel,validé
+10,fukk,foukk,ndeye_maguette_officiel,validé
+11,fukk ak benn,fukk ak ben,ndeye_maguette_officiel,validé
+12,fukk ak ñaar,fukk ak naar ; fukk ak gnaar,ndeye_maguette_officiel,validé
+13,fukk ak ñett,fukk ak nett ; fukk ak gnett,ndeye_maguette_officiel,validé
+14,fukk ak ñent,fukk ak nent ; fukk ak gnent,ndeye_maguette_officiel,validé
+15,fukk ak juróom,fukk ak juroom,ndeye_maguette_officiel,validé
+16,fukk ak juróom-benn,fukk ak juroom-benn,ndeye_maguette_officiel,validé
+17,fukk ak juróom-ñaar,fukk ak juroom-naar,ndeye_maguette_officiel,validé
+18,fukk ak juróom-ñett,fukk ak juroom-nett,ndeye_maguette_officiel,validé
+19,fukk ak juróom-ñent,fukk ak juroom-nent,ndeye_maguette_officiel,validé
+20,ñaar-fukk,naar-fukk ; ñaarfukk ; nit,ndeye_maguette_officiel,validé
+21,ñaar-fukk ak benn,naar-fukk ak benn,ndeye_maguette_officiel,validé
+22,ñaar-fukk ak ñaar,naar-fukk ak naar,ndeye_maguette_officiel,validé
+23,ñaar-fukk ak ñett,naar-fukk ak nett,ndeye_maguette_officiel,validé
+24,ñaar-fukk ak ñent,naar-fukk ak nent,ndeye_maguette_officiel,validé
+25,ñaar-fukk ak juróom,naar-fukk ak juroom,ndeye_maguette_officiel,validé
+26,ñaar-fukk ak juróom-benn,naar-fukk ak juroom-benn,ndeye_maguette_officiel,validé
+27,ñaar-fukk ak juróom-ñaar,naar-fukk ak juroom-naar,ndeye_maguette_officiel,validé
+28,ñaar-fukk ak juróom-ñett,naar-fukk ak juroom-nett,ndeye_maguette_officiel,validé
+29,ñaar-fukk ak juróom-ñent,naar-fukk ak juroom-nent,ndeye_maguette_officiel,validé
+30,fanweer,fanwer ; fan weer ; fanwéer,ndeye_maguette_officiel,validé
+31,fanweer ak benn,fanwer ak benn,ndeye_maguette_officiel,validé
+32,fanweer ak ñaar,fanwer ak naar,ndeye_maguette_officiel,validé
+33,fanweer ak ñett,fanwer ak nett,ndeye_maguette_officiel,validé
+34,fanweer ak ñent,fanwer ak nent,ndeye_maguette_officiel,validé
+35,fanweer ak juróom,fanwer ak juroom,ndeye_maguette_officiel,validé
+36,fanweer ak juróom-benn,fanwer ak juroom-benn,ndeye_maguette_officiel,validé
+37,fanweer ak juróom-ñaar,fanwer ak juroom-naar,ndeye_maguette_officiel,validé
+38,fanweer ak juróom-ñett,fanwer ak juroom-nett,ndeye_maguette_officiel,validé
+39,fanweer ak juróom-ñent,fanwer ak juroom-nent,ndeye_maguette_officiel,validé
+40,ñent-fukk,nent-fukk ; ñent fukk ; ñentfukk,ndeye_maguette_officiel,validé
+41,ñent-fukk ak benn,nent-fukk ak benn,ndeye_maguette_officiel,validé
+42,ñent-fukk ak ñaar,nent-fukk ak naar,ndeye_maguette_officiel,validé
+43,ñent-fukk ak ñett,nent-fukk ak nett,ndeye_maguette_officiel,validé
+44,ñent-fukk ak ñent,nent-fukk ak nent,ndeye_maguette_officiel,validé
+45,ñent-fukk ak juróom,nent-fukk ak juroom,ndeye_maguette_officiel,validé
+46,ñent-fukk ak juróom-benn,nent-fukk ak juroom-benn,ndeye_maguette_officiel,validé
+47,ñent-fukk ak juróom-ñaar,nent-fukk ak juroom-naar,ndeye_maguette_officiel,validé
+48,ñent-fukk ak juróom-ñett,nent-fukk ak juroom-nett,ndeye_maguette_officiel,validé
+49,ñent-fukk ak juróom-ñent,nent-fukk ak juroom-nent,ndeye_maguette_officiel,validé
+50,juróom-fukk,juroom-fukk ; juróom fukk ; juróomfukk,ndeye_maguette_officiel,validé
+51,juróom-fukk ak benn,juroom-fukk ak benn,ndeye_maguette_officiel,validé
+52,juróom-fukk ak ñaar,juroom-fukk ak naar,ndeye_maguette_officiel,validé
+53,juróom-fukk ak ñett,juroom-fukk ak nett,ndeye_maguette_officiel,validé
+54,juróom-fukk ak ñent,juroom-fukk ak nent,ndeye_maguette_officiel,validé
+55,juróom-fukk ak juróom,juroom-fukk ak juroom,ndeye_maguette_officiel,validé
+56,juróom-fukk ak juróom-benn,juroom-fukk ak juroom-benn,ndeye_maguette_officiel,validé
+57,juróom-fukk ak juróom-ñaar,juroom-fukk ak juroom-naar,ndeye_maguette_officiel,validé
+58,juróom-fukk ak juróom-ñett,juroom-fukk ak juroom-nett,ndeye_maguette_officiel,validé
+59,juróom-fukk ak juróom-ñent,juroom-fukk ak juroom-nent,ndeye_maguette_officiel,validé
+60,juróom-benn-fukk,juroom-benn-fukk ; juróom benn fukk,ndeye_maguette_officiel,validé
+61,juróom-benn-fukk ak benn,juroom-benn-fukk ak benn,ndeye_maguette_officiel,validé
+62,juróom-benn-fukk ak ñaar,juroom-benn-fukk ak naar,ndeye_maguette_officiel,validé
+63,juróom-benn-fukk ak ñett,juroom-benn-fukk ak nett,ndeye_maguette_officiel,validé
+64,juróom-benn-fukk ak ñent,juroom-benn-fukk ak nent,ndeye_maguette_officiel,validé
+65,juróom-benn-fukk ak juróom,juroom-benn-fukk ak juroom,ndeye_maguette_officiel,validé
+66,juróom-benn-fukk ak juróom-benn,juroom-benn-fukk ak juroom-benn,ndeye_maguette_officiel,validé
+67,juróom-benn-fukk ak juróom-ñaar,juroom-benn-fukk ak juroom-naar,ndeye_maguette_officiel,validé
+68,juróom-benn-fukk ak juróom-ñett,juroom-benn-fukk ak juroom-nett,ndeye_maguette_officiel,validé
+69,juróom-benn-fukk ak juróom-ñent,juroom-benn-fukk ak juroom-nent,ndeye_maguette_officiel,validé
+70,juróom-ñaar-fukk,juroom-naar-fukk ; juróom ñaar fukk,ndeye_maguette_officiel,validé
+71,juróom-ñaar-fukk ak benn,juroom-naar-fukk ak benn,ndeye_maguette_officiel,validé
+72,juróom-ñaar-fukk ak ñaar,juroom-naar-fukk ak naar,ndeye_maguette_officiel,validé
+73,juróom-ñaar-fukk ak ñett,juroom-naar-fukk ak nett,ndeye_maguette_officiel,validé
+74,juróom-ñaar-fukk ak ñent,juroom-naar-fukk ak nent,ndeye_maguette_officiel,validé
+75,juróom-ñaar-fukk ak juróom,juroom-naar-fukk ak juroom,ndeye_maguette_officiel,validé
+76,juróom-ñaar-fukk ak juróom-benn,juroom-naar-fukk ak juroom-benn,ndeye_maguette_officiel,validé
+77,juróom-ñaar-fukk ak juróom-ñaar,juroom-naar-fukk ak juroom-naar,ndeye_maguette_officiel,validé
+78,juróom-ñaar-fukk ak juróom-ñett,juroom-naar-fukk ak juroom-nett,ndeye_maguette_officiel,validé
+79,juróom-ñaar-fukk ak juróom-ñent,juroom-naar-fukk ak juroom-nent,ndeye_maguette_officiel,validé
+80,juróom-ñett-fukk,juroom-nett-fukk ; juróom ñett fukk,ndeye_maguette_officiel,validé
+81,juróom-ñett-fukk ak benn,juroom-nett-fukk ak benn,ndeye_maguette_officiel,validé
+82,juróom-ñett-fukk ak ñaar,juroom-nett-fukk ak naar,ndeye_maguette_officiel,validé
+83,juróom-ñett-fukk ak ñett,juroom-nett-fukk ak nett,ndeye_maguette_officiel,validé
+84,juróom-ñett-fukk ak ñent,juroom-nett-fukk ak nent,ndeye_maguette_officiel,validé
+85,juróom-ñett-fukk ak juróom,juroom-nett-fukk ak juroom,ndeye_maguette_officiel,validé
+86,juróom-ñett-fukk ak juróom-benn,juroom-nett-fukk ak juroom-benn,ndeye_maguette_officiel,validé
+87,juróom-ñett-fukk ak juróom-ñaar,juroom-nett-fukk ak juroom-naar,ndeye_maguette_officiel,validé
+88,juróom-ñett-fukk ak juróom-ñett,juroom-nett-fukk ak juroom-nett,ndeye_maguette_officiel,validé
+89,juróom-ñett-fukk ak juróom-ñent,juroom-nett-fukk ak juroom-nent,ndeye_maguette_officiel,validé
+90,juróom-ñent-fukk,juroom-nent-fukk ; juróom ñent fukk,ndeye_maguette_officiel,validé
+91,juróom-ñent-fukk ak benn,juroom-nent-fukk ak benn,ndeye_maguette_officiel,validé
+92,juróom-ñent-fukk ak ñaar,juroom-nent-fukk ak naar,ndeye_maguette_officiel,validé
+93,juróom-ñent-fukk ak ñett,juroom-nent-fukk ak nett,ndeye_maguette_officiel,validé
+94,juróom-ñent-fukk ak ñent,juroom-nent-fukk ak nent,ndeye_maguette_officiel,validé
+95,juróom-ñent-fukk ak juróom,juroom-nent-fukk ak juroom,ndeye_maguette_officiel,validé
+96,juróom-ñent-fukk ak juróom-benn,juroom-nent-fukk ak juroom-benn,ndeye_maguette_officiel,validé
+97,juróom-ñent-fukk ak juróom-ñaar,juroom-nent-fukk ak juroom-naar,ndeye_maguette_officiel,validé
+98,juróom-ñent-fukk ak juróom-ñett,juroom-nent-fukk ak juroom-nett,ndeye_maguette_officiel,validé
+99,juróom-ñent-fukk ak juróom-ñent,juroom-nent-fukk ak juroom-nent,ndeye_maguette_officiel,validé
+100,téeméer,teemeer ; téemeer,ndeye_maguette_officiel,validé

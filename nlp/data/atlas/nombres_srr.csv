@@ -1,0 +1,101 @@
+valeur,forme,variantes,source,statut
+1,leng,,ndeye_maguette_officiel,validé
+2,dik,,ndeye_maguette_officiel,validé
+3,tadik,,ndeye_maguette_officiel,validé
+4,nahik,,ndeye_maguette_officiel,validé
+5,betik,,ndeye_maguette_officiel,validé
+6,bétou fa leng,betou fa leng,ndeye_maguette_officiel,validé
+7,bétou dik,betou dik,ndeye_maguette_officiel,validé
+8,bétou tadik,betou tadik,ndeye_maguette_officiel,validé
+9,bétou nahik,betou nahik,ndeye_maguette_officiel,validé
+10,xarbaxay,kharbakhay,ndeye_maguette_officiel,validé
+11,xarbaxay fo leng,kharbakhay fo leng,ndeye_maguette_officiel,validé
+12,xarbaxay fo dik,kharbakhay fo dik,ndeye_maguette_officiel,validé
+13,xarbaxay fo tadik,kharbakhay fo tadik,ndeye_maguette_officiel,validé
+14,xarbaxay fo nahik,kharbakhay fo nahik,ndeye_maguette_officiel,validé
+15,xarbaxay fo betik,kharbakhay fo betik,ndeye_maguette_officiel,validé
+16,xarbaxay fo bétou fa leng,xarbaxay fo betou fa leng ; kharbakhay fo betou fa leng,ndeye_maguette_officiel,validé
+17,xarbaxay fo bétou dik,xarbaxay fo betou dik ; kharbakhay fo betou dik,ndeye_maguette_officiel,validé
+18,xarbaxay fo bétou tadik,xarbaxay fo betou tadik ; kharbakhay fo betou tadik,ndeye_maguette_officiel,validé
+19,xarbaxay fo bétou nahik,xarbaxay fo betou nahik ; kharbakhay fo betou nahik,ndeye_maguette_officiel,validé
+20,xarbéne dik,xarbéndik ; xarbene dik ; kharbene dik ; xarbendik ; kharbendik,ndeye_maguette_officiel,validé
+21,xarbéne dik fo leng,xarbéndik fo leng ; xarbene dik fo leng ; kharbene dik fo leng ; xarbendik fo leng ; kharbendik fo leng,ndeye_maguette_officiel,validé
+22,xarbéne dik fo dik,xarbéndik fo dik ; xarbene dik fo dik ; kharbene dik fo dik ; xarbendik fo dik ; kharbendik fo dik,ndeye_maguette_officiel,validé
+23,xarbéne dik fo tadik,xarbéndik fo tadik ; xarbene dik fo tadik ; kharbene dik fo tadik ; xarbendik fo tadik ; kharbendik fo tadik,ndeye_maguette_officiel,validé
+24,xarbéne dik fo nahik,xarbéndik fo nahik ; xarbene dik fo nahik ; kharbene dik fo nahik ; xarbendik fo nahik ; kharbendik fo nahik,ndeye_maguette_officiel,validé
+25,xarbéne dik fo betik,xarbéndik fo betik ; xarbene dik fo betik ; kharbene dik fo betik ; xarbendik fo betik ; kharbendik fo betik,ndeye_maguette_officiel,validé
+26,xarbéne dik fo bétou fa leng,xarbéndik fo bétou fa leng ; xarbene dik fo betou fa leng ; kharbene dik fo betou fa leng ; xarbendik fo betou fa leng ; kharbendik fo betou fa leng,ndeye_maguette_officiel,validé
+27,xarbéne dik fo bétou dik,xarbéndik fo bétou dik ; xarbene dik fo betou dik ; kharbene dik fo betou dik ; xarbendik fo betou dik ; kharbendik fo betou dik,ndeye_maguette_officiel,validé
+28,xarbéne dik fo bétou tadik,xarbéndik fo bétou tadik ; xarbene dik fo betou tadik ; kharbene dik fo betou tadik ; xarbendik fo betou tadik ; kharbendik fo betou tadik,ndeye_maguette_officiel,validé
+29,xarbéne dik fo bétou nahik,xarbéndik fo bétou nahik ; xarbene dik fo betou nahik ; kharbene dik fo betou nahik ; xarbendik fo betou nahik ; kharbendik fo betou nahik,ndeye_maguette_officiel,validé
+30,xarbéne tadik,xarbéntadik ; xarbene tadik ; kharbene tadik ; xarbentadik ; kharbentadik,ndeye_maguette_officiel,validé
+31,xarbéne tadik fo leng,xarbéntadik fo leng ; xarbene tadik fo leng ; kharbene tadik fo leng ; xarbentadik fo leng ; kharbentadik fo leng,ndeye_maguette_officiel,validé
+32,xarbéne tadik fo dik,xarbéntadik fo dik ; xarbene tadik fo dik ; kharbene tadik fo dik ; xarbentadik fo dik ; kharbentadik fo dik,ndeye_maguette_officiel,validé
+33,xarbéne tadik fo tadik,xarbéntadik fo tadik ; xarbene tadik fo tadik ; kharbene tadik fo tadik ; xarbentadik fo tadik ; kharbentadik fo tadik,ndeye_maguette_officiel,validé
+34,xarbéne tadik fo nahik,xarbéntadik fo nahik ; xarbene tadik fo nahik ; kharbene tadik fo nahik ; xarbentadik fo nahik ; kharbentadik fo nahik,ndeye_maguette_officiel,validé
+35,xarbéne tadik fo betik,xarbéntadik fo betik ; xarbene tadik fo betik ; kharbene tadik fo betik ; xarbentadik fo betik ; kharbentadik fo betik,ndeye_maguette_officiel,validé
+36,xarbéne tadik fo bétou fa leng,xarbéntadik fo bétou fa leng ; xarbene tadik fo betou fa leng ; kharbene tadik fo betou fa leng ; xarbentadik fo betou fa leng ; kharbentadik fo betou fa leng,ndeye_maguette_officiel,validé
+37,xarbéne tadik fo bétou dik,xarbéntadik fo bétou dik ; xarbene tadik fo betou dik ; kharbene tadik fo betou dik ; xarbentadik fo betou dik ; kharbentadik fo betou dik,ndeye_maguette_officiel,validé
+38,xarbéne tadik fo bétou tadik,xarbéntadik fo bétou tadik ; xarbene tadik fo betou tadik ; kharbene tadik fo betou tadik ; xarbentadik fo betou tadik ; kharbentadik fo betou tadik,ndeye_maguette_officiel,validé
+39,xarbéne tadik fo bétou nahik,xarbéntadik fo bétou nahik ; xarbene tadik fo betou nahik ; kharbene tadik fo betou nahik ; xarbentadik fo betou nahik ; kharbentadik fo betou nahik,ndeye_maguette_officiel,validé
+40,xarbéne nahik,xarbénahik ; xarbene nahik ; kharbene nahik ; xarbenahik ; kharbenahik,ndeye_maguette_officiel,validé
+41,xarbéne nahik fo leng,xarbénahik fo leng ; xarbene nahik fo leng ; kharbene nahik fo leng ; xarbenahik fo leng ; kharbenahik fo leng,ndeye_maguette_officiel,validé
+42,xarbéne nahik fo dik,xarbénahik fo dik ; xarbene nahik fo dik ; kharbene nahik fo dik ; xarbenahik fo dik ; kharbenahik fo dik,ndeye_maguette_officiel,validé
+43,xarbéne nahik fo tadik,xarbénahik fo tadik ; xarbene nahik fo tadik ; kharbene nahik fo tadik ; xarbenahik fo tadik ; kharbenahik fo tadik,ndeye_maguette_officiel,validé
+44,xarbéne nahik fo nahik,xarbénahik fo nahik ; xarbene nahik fo nahik ; kharbene nahik fo nahik ; xarbenahik fo nahik ; kharbenahik fo nahik,ndeye_maguette_officiel,validé
+45,xarbéne nahik fo betik,xarbénahik fo betik ; xarbene nahik fo betik ; kharbene nahik fo betik ; xarbenahik fo betik ; kharbenahik fo betik,ndeye_maguette_officiel,validé
+46,xarbéne nahik fo bétou fa leng,xarbénahik fo bétou fa leng ; xarbene nahik fo betou fa leng ; kharbene nahik fo betou fa leng ; xarbenahik fo betou fa leng ; kharbenahik fo betou fa leng,ndeye_maguette_officiel,validé
+47,xarbéne nahik fo bétou dik,xarbénahik fo bétou dik ; xarbene nahik fo betou dik ; kharbene nahik fo betou dik ; xarbenahik fo betou dik ; kharbenahik fo betou dik,ndeye_maguette_officiel,validé
+48,xarbéne nahik fo bétou tadik,xarbénahik fo bétou tadik ; xarbene nahik fo betou tadik ; kharbene nahik fo betou tadik ; xarbenahik fo betou tadik ; kharbenahik fo betou tadik,ndeye_maguette_officiel,validé
+49,xarbéne nahik fo bétou nahik,xarbénahik fo bétou nahik ; xarbene nahik fo betou nahik ; kharbene nahik fo betou nahik ; xarbenahik fo betou nahik ; kharbenahik fo betou nahik,ndeye_maguette_officiel,validé
+50,xarbéne betik,xarbénbetik ; xarbene betik ; kharbene betik ; xarbenbetik ; kharbenbetik,ndeye_maguette_officiel,validé
+51,xarbéne betik fo leng,xarbénbetik fo leng ; xarbene betik fo leng ; kharbene betik fo leng ; xarbenbetik fo leng ; kharbenbetik fo leng,ndeye_maguette_officiel,validé
+52,xarbéne betik fo dik,xarbénbetik fo dik ; xarbene betik fo dik ; kharbene betik fo dik ; xarbenbetik fo dik ; kharbenbetik fo dik,ndeye_maguette_officiel,validé
+53,xarbéne betik fo tadik,xarbénbetik fo tadik ; xarbene betik fo tadik ; kharbene betik fo tadik ; xarbenbetik fo tadik ; kharbenbetik fo tadik,ndeye_maguette_officiel,validé
+54,xarbéne betik fo nahik,xarbénbetik fo nahik ; xarbene betik fo nahik ; kharbene betik fo nahik ; xarbenbetik fo nahik ; kharbenbetik fo nahik,ndeye_maguette_officiel,validé
+55,xarbéne betik fo betik,xarbénbetik fo betik ; xarbene betik fo betik ; kharbene betik fo betik ; xarbenbetik fo betik ; kharbenbetik fo betik,ndeye_maguette_officiel,validé
+56,xarbéne betik fo bétou fa leng,xarbénbetik fo bétou fa leng ; xarbene betik fo betou fa leng ; kharbene betik fo betou fa leng ; xarbenbetik fo betou fa leng ; kharbenbetik fo betou fa leng,ndeye_maguette_officiel,validé
+57,xarbéne betik fo bétou dik,xarbénbetik fo bétou dik ; xarbene betik fo betou dik ; kharbene betik fo betou dik ; xarbenbetik fo betou dik ; kharbenbetik fo betou dik,ndeye_maguette_officiel,validé
+58,xarbéne betik fo bétou tadik,xarbénbetik fo bétou tadik ; xarbene betik fo betou tadik ; kharbene betik fo betou tadik ; xarbenbetik fo betou tadik ; kharbenbetik fo betou tadik,ndeye_maguette_officiel,validé
+59,xarbéne betik fo bétou nahik,xarbénbetik fo bétou nahik ; xarbene betik fo betou nahik ; kharbene betik fo betou nahik ; xarbenbetik fo betou nahik ; kharbenbetik fo betou nahik,ndeye_maguette_officiel,validé
+60,xarbéne bétou fa leng,xarbene betou fa leng ; kharbene betou fa leng,ndeye_maguette_officiel,validé
+61,xarbéne bétou fa leng fo leng,xarbene betou fa leng fo leng ; kharbene betou fa leng fo leng,ndeye_maguette_officiel,validé
+62,xarbéne bétou fa leng fo dik,xarbene betou fa leng fo dik ; kharbene betou fa leng fo dik,ndeye_maguette_officiel,validé
+63,xarbéne bétou fa leng fo tadik,xarbene betou fa leng fo tadik ; kharbene betou fa leng fo tadik,ndeye_maguette_officiel,validé
+64,xarbéne bétou fa leng fo nahik,xarbene betou fa leng fo nahik ; kharbene betou fa leng fo nahik,ndeye_maguette_officiel,validé
+65,xarbéne bétou fa leng fo betik,xarbene betou fa leng fo betik ; kharbene betou fa leng fo betik,ndeye_maguette_officiel,validé
+66,xarbéne bétou fa leng fo bétou fa leng,xarbene betou fa leng fo betou fa leng ; kharbene betou fa leng fo betou fa leng,ndeye_maguette_officiel,validé
+67,xarbéne bétou fa leng fo bétou dik,xarbene betou fa leng fo betou dik ; kharbene betou fa leng fo betou dik,ndeye_maguette_officiel,validé
+68,xarbéne bétou fa leng fo bétou tadik,xarbene betou fa leng fo betou tadik ; kharbene betou fa leng fo betou tadik,ndeye_maguette_officiel,validé
+69,xarbéne bétou fa leng fo bétou nahik,xarbene betou fa leng fo betou nahik ; kharbene betou fa leng fo betou nahik,ndeye_maguette_officiel,validé
+70,xarbéne bétou dik,xarbene betou dik ; kharbene betou dik,ndeye_maguette_officiel,validé
+71,xarbéne bétou dik fo leng,xarbene betou dik fo leng ; kharbene betou dik fo leng,ndeye_maguette_officiel,validé
+72,xarbéne bétou dik fo dik,xarbene betou dik fo dik ; kharbene betou dik fo dik,ndeye_maguette_officiel,validé
+73,xarbéne bétou dik fo tadik,xarbene betou dik fo tadik ; kharbene betou dik fo tadik,ndeye_maguette_officiel,validé
+74,xarbéne bétou dik fo nahik,xarbene betou dik fo nahik ; kharbene betou dik fo nahik,ndeye_maguette_officiel,validé
+75,xarbéne bétou dik fo betik,xarbene betou dik fo betik ; kharbene betou dik fo betik,ndeye_maguette_officiel,validé
+76,xarbéne bétou dik fo bétou fa leng,xarbene betou dik fo betou fa leng ; kharbene betou dik fo betou fa leng,ndeye_maguette_officiel,validé
+77,xarbéne bétou dik fo bétou dik,xarbene betou dik fo betou dik ; kharbene betou dik fo betou dik,ndeye_maguette_officiel,validé
+78,xarbéne bétou dik fo bétou tadik,xarbene betou dik fo betou tadik ; kharbene betou dik fo betou tadik,ndeye_maguette_officiel,validé
+79,xarbéne bétou dik fo bétou nahik,xarbene betou dik fo betou nahik ; kharbene betou dik fo betou nahik,ndeye_maguette_officiel,validé
+80,xarbéne bétou tadik,xarbene betou tadik ; kharbene betou tadik,ndeye_maguette_officiel,validé
+81,xarbéne bétou tadik fo leng,xarbene betou tadik fo leng ; kharbene betou tadik fo leng,ndeye_maguette_officiel,validé
+82,xarbéne bétou tadik fo dik,xarbene betou tadik fo dik ; kharbene betou tadik fo dik,ndeye_maguette_officiel,validé
+83,xarbéne bétou tadik fo tadik,xarbene betou tadik fo tadik ; kharbene betou tadik fo tadik,ndeye_maguette_officiel,validé
+84,xarbéne bétou tadik fo nahik,xarbene betou tadik fo nahik ; kharbene betou tadik fo nahik,ndeye_maguette_officiel,validé
+85,xarbéne bétou tadik fo betik,xarbene betou tadik fo betik ; kharbene betou tadik fo betik,ndeye_maguette_officiel,validé
+86,xarbéne bétou tadik fo bétou fa leng,xarbene betou tadik fo betou fa leng ; kharbene betou tadik fo betou fa leng,ndeye_maguette_officiel,validé
+87,xarbéne bétou tadik fo bétou dik,xarbene betou tadik fo betou dik ; kharbene betou tadik fo betou dik,ndeye_maguette_officiel,validé
+88,xarbéne bétou tadik fo bétou tadik,xarbene betou tadik fo betou tadik ; kharbene betou tadik fo betou tadik,ndeye_maguette_officiel,validé
+89,xarbéne bétou tadik fo bétou nahik,xarbene betou tadik fo betou nahik ; kharbene betou tadik fo betou nahik,ndeye_maguette_officiel,validé
+90,xarbéne bétou nahik,xarbene betou nahik ; kharbene betou nahik,ndeye_maguette_officiel,validé
+91,xarbéne bétou nahik fo leng,xarbene betou nahik fo leng ; kharbene betou nahik fo leng,ndeye_maguette_officiel,validé
+92,xarbéne bétou nahik fo dik,xarbene betou nahik fo dik ; kharbene betou nahik fo dik,ndeye_maguette_officiel,validé
+93,xarbéne bétou nahik fo tadik,xarbene betou nahik fo tadik ; kharbene betou nahik fo tadik,ndeye_maguette_officiel,validé
+94,xarbéne bétou nahik fo nahik,xarbene betou nahik fo nahik ; kharbene betou nahik fo nahik,ndeye_maguette_officiel,validé
+95,xarbéne bétou nahik fo betik,xarbene betou nahik fo betik ; kharbene betou nahik fo betik,ndeye_maguette_officiel,validé
+96,xarbéne bétou nahik fo bétou fa leng,xarbene betou nahik fo betou fa leng ; kharbene betou nahik fo betou fa leng,ndeye_maguette_officiel,validé
+97,xarbéne bétou nahik fo bétou dik,xarbene betou nahik fo betou dik ; kharbene betou nahik fo betou dik,ndeye_maguette_officiel,validé
+98,xarbéne bétou nahik fo bétou tadik,xarbene betou nahik fo betou tadik ; kharbene betou nahik fo betou tadik,ndeye_maguette_officiel,validé
+99,xarbéne bétou nahik fo bétou nahik,xarbene betou nahik fo betou nahik ; kharbene betou nahik fo betou nahik,ndeye_maguette_officiel,validé
+100,teeméde,teemede,ndeye_maguette_officiel,validé

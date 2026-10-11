@@ -1,0 +1,18 @@
+{
+  "intention": "vente_credit",
+  "donnees": {
+    "client": "Awa",
+    "produit": "sucre",
+    "quantite": 2.0,
+    "unite": "paquet",
+    "montant": null
+  },
+  "langue": "wo",
+  "methode": "regles",
+  "confiance": 0.85,
+  "est_complet": false,
+  "champs_manquants": [
+    "montant"
+  ],
+  "question_clarification": "Ñaata la ?"
+}

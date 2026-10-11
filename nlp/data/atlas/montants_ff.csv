@@ -1,0 +1,112 @@
+montant_fcfa,forme,variantes,logique,source,statut
+25,buuɗi joy,bu'joy ; buudi joy,5 × 5 F,ndeye_maguette_officiel,validé
+50,buuɗi sappo,bu'sappo ; buudi sappo,10 × 5 F,ndeye_maguette_officiel,validé
+75,buuɗi sappo e joy,bu'sappo e joy ; buudi sappo e joy,15 × 5 F,ndeye_maguette_officiel,validé
+100,nogass,noogaas ; noogas,20 × 5 F,ndeye_maguette_officiel,validé
+125,nogass e joy,noogaas e joy ; noogas e joy,25 × 5 F,ndeye_maguette_officiel,validé
+150,thiapantati,capanɗe tati ; thiapanɗe tati ; capande tati,30 × 5 F,ndeye_maguette_officiel,validé
+175,thiapantati e joy,capanɗe tati e joy ; thiapanɗe tati e joy ; capande tati e joy,35 × 5 F,ndeye_maguette_officiel,validé
+200,thiapanay,capanɗe nay ; thiapanɗe nay ; capande nay,40 × 5 F,ndeye_maguette_officiel,validé
+225,thiapanay e joy,capanɗe nay e joy ; thiapanɗe nay e joy ; capande nay e joy,45 × 5 F,ndeye_maguette_officiel,validé
+250,thiapanɗe joy,capanɗe joy ; capande joy ; thiapande joy,50 × 5 F,ndeye_maguette_officiel,validé
+275,thiapanɗe joy e joy,capanɗe joy e joy ; capande joy e joy ; thiapande joy e joy,55 × 5 F,ndeye_maguette_officiel,validé
+300,thiapanɗe jeegom,capanɗe jeegom ; capande jeegom ; thiapande jeegom,60 × 5 F,ndeye_maguette_officiel,validé
+325,thiapanɗe jeegom e joy,capanɗe jeegom e joy ; capande jeegom e joy ; thiapande jeegom e joy,65 × 5 F,ndeye_maguette_officiel,validé
+350,thiapanɗe jeedidi,capanɗe jeeɗiɗi ; capande jeedidi ; thiapande jeedidi,70 × 5 F,ndeye_maguette_officiel,validé
+375,thiapanɗe jeedidi e joy,capanɗe jeeɗiɗi e joy ; capande jeedidi e joy ; thiapande jeedidi e joy,75 × 5 F,ndeye_maguette_officiel,validé
+400,thiapanɗe jeetati,capanɗe jeetati ; capande jeetati ; thiapande jeetati,80 × 5 F,ndeye_maguette_officiel,validé
+425,thiapanɗe jeetati e joy,capanɗe jeetati e joy ; capande jeetati e joy ; thiapande jeetati e joy,85 × 5 F,ndeye_maguette_officiel,validé
+450,thiapanɗe jeenay,capanɗe jeenay ; capande jeenay ; thiapande jeenay,90 × 5 F,ndeye_maguette_officiel,validé
+475,thiapanɗe jeenay e joy,capanɗe jeenay e joy ; capande jeenay e joy ; thiapande jeenay e joy,95 × 5 F,ndeye_maguette_officiel,validé
+500,teemedéré,teemedere,1 × 500 F,ndeye_maguette_officiel,validé
+525,teemedéré e buuɗi joy,teemedéré e bu'joy ; teemedere e buuɗi joy ; teemedere e buudi joy,1 × 500 F + 5 × 5 F,ndeye_maguette_officiel,validé
+550,teemedéré e buuɗi sappo,teemedéré e bu'sappo ; teemedere e buuɗi sappo ; teemedere e buudi sappo,1 × 500 F + 10 × 5 F,ndeye_maguette_officiel,validé
+575,teemedéré e buuɗi sappo e joy,teemedéré e bu'sappo e joy ; teemedere e buuɗi sappo e joy ; teemedere e buudi sappo e joy,1 × 500 F + 15 × 5 F,ndeye_maguette_officiel,validé
+600,teemedéré e nogass,teemedere e noogaas ; teemedere e noogas ; teemedere e nogass,1 × 500 F + 20 × 5 F,ndeye_maguette_officiel,validé
+625,teemedéré e nogass e joy,teemedere e noogaas e joy ; teemedere e noogas e joy ; teemedere e nogass e joy,1 × 500 F + 25 × 5 F,ndeye_maguette_officiel,validé
+650,teemedéré e thiapantati,teemedere e capanɗe tati ; teemedere e thiapanɗe tati ; teemedere e capande tati ; teemedere e thiapantati,1 × 500 F + 30 × 5 F,ndeye_maguette_officiel,validé
+675,teemedéré e thiapantati e joy,teemedere e capanɗe tati e joy ; teemedere e thiapanɗe tati e joy ; teemedere e capande tati e joy ; teemedere e thiapantati e joy,1 × 500 F + 35 × 5 F,ndeye_maguette_officiel,validé
+700,teemedéré e thiapanay,teemedere e capanɗe nay ; teemedere e thiapanɗe nay ; teemedere e capande nay ; teemedere e thiapanay,1 × 500 F + 40 × 5 F,ndeye_maguette_officiel,validé
+725,teemedéré e thiapanay e joy,teemedere e capanɗe nay e joy ; teemedere e thiapanɗe nay e joy ; teemedere e capande nay e joy ; teemedere e thiapanay e joy,1 × 500 F + 45 × 5 F,ndeye_maguette_officiel,validé
+750,teemedéré e thiapanɗe joy,teemedere e capanɗe joy ; teemedere e capande joy ; teemedere e thiapande joy,1 × 500 F + 50 × 5 F,ndeye_maguette_officiel,validé
+775,teemedéré e thiapanɗe joy e joy,teemedere e capanɗe joy e joy ; teemedere e capande joy e joy ; teemedere e thiapande joy e joy,1 × 500 F + 55 × 5 F,ndeye_maguette_officiel,validé
+800,teemedéré e thiapanɗe jeegom,teemedere e capanɗe jeegom ; teemedere e capande jeegom ; teemedere e thiapande jeegom,1 × 500 F + 60 × 5 F,ndeye_maguette_officiel,validé
+825,teemedéré e thiapanɗe jeegom e joy,teemedere e capanɗe jeegom e joy ; teemedere e capande jeegom e joy ; teemedere e thiapande jeegom e joy,1 × 500 F + 65 × 5 F,ndeye_maguette_officiel,validé
+850,teemedéré e thiapanɗe jeedidi,teemedere e capanɗe jeeɗiɗi ; teemedere e capande jeedidi ; teemedere e thiapande jeedidi,1 × 500 F + 70 × 5 F,ndeye_maguette_officiel,validé
+875,teemedéré e thiapanɗe jeedidi e joy,teemedere e capanɗe jeeɗiɗi e joy ; teemedere e capande jeedidi e joy ; teemedere e thiapande jeedidi e joy,1 × 500 F + 75 × 5 F,ndeye_maguette_officiel,validé
+900,teemedéré e thiapanɗe jeetati,teemedere e capanɗe jeetati ; teemedere e capande jeetati ; teemedere e thiapande jeetati,1 × 500 F + 80 × 5 F,ndeye_maguette_officiel,validé
+925,teemedéré e thiapanɗe jeetati e joy,teemedere e capanɗe jeetati e joy ; teemedere e capande jeetati e joy ; teemedere e thiapande jeetati e joy,1 × 500 F + 85 × 5 F,ndeye_maguette_officiel,validé
+950,teemedéré e thiapanɗe jeenay,teemedere e capanɗe jeenay ; teemedere e capande jeenay ; teemedere e thiapande jeenay,1 × 500 F + 90 × 5 F,ndeye_maguette_officiel,validé
+975,teemedéré e thiapanɗe jeenay e joy,teemedere e capanɗe jeenay e joy ; teemedere e capande jeenay e joy ; teemedere e thiapande jeenay e joy,1 × 500 F + 95 × 5 F,ndeye_maguette_officiel,validé
+1000,teemédé ɗiɗi,teemedde ɗiɗi ; teemedde didi ; teemede didi,2 × 500 F (teemédé = forme contractée de teemedéré),ndeye_maguette_officiel,validé
+1025,teemédé ɗiɗi e buuɗi joy,teemédé ɗiɗi e bu'joy ; teemedde ɗiɗi e buuɗi joy ; teemedde didi e buudi joy ; teemede didi e buudi joy,2 × 500 F + 5 × 5 F,ndeye_maguette_officiel,validé
+1050,teemédé ɗiɗi e buuɗi sappo,teemédé ɗiɗi e bu'sappo ; teemedde ɗiɗi e buuɗi sappo ; teemedde didi e buudi sappo ; teemede didi e buudi sappo,2 × 500 F + 10 × 5 F,ndeye_maguette_officiel,validé
+1075,teemédé ɗiɗi e buuɗi sappo e joy,teemédé ɗiɗi e bu'sappo e joy ; teemedde ɗiɗi e buuɗi sappo e joy ; teemedde didi e buudi sappo e joy ; teemede didi e buudi sappo e joy,2 × 500 F + 15 × 5 F,ndeye_maguette_officiel,validé
+1100,teemédé ɗiɗi e nogass,teemedde ɗiɗi e noogaas ; teemedde ɗiɗi e noogas ; teemedde didi e noogaas ; teemede didi e nogass,2 × 500 F + 20 × 5 F,ndeye_maguette_officiel,validé
+1125,teemédé ɗiɗi e nogass e joy,teemedde ɗiɗi e noogaas e joy ; teemedde ɗiɗi e noogas e joy ; teemedde didi e noogaas e joy ; teemede didi e nogass e joy,2 × 500 F + 25 × 5 F,ndeye_maguette_officiel,validé
+1150,teemédé ɗiɗi e thiapantati,teemedde ɗiɗi e capanɗe tati ; teemedde ɗiɗi e thiapanɗe tati ; teemedde didi e capande tati ; teemede didi e thiapantati,2 × 500 F + 30 × 5 F,ndeye_maguette_officiel,validé
+1175,teemédé ɗiɗi e thiapantati e joy,teemedde ɗiɗi e capanɗe tati e joy ; teemedde ɗiɗi e thiapanɗe tati e joy ; teemedde didi e capande tati e joy ; teemede didi e thiapantati e joy,2 × 500 F + 35 × 5 F,ndeye_maguette_officiel,validé
+1200,teemédé ɗiɗi e thiapanay,teemedde ɗiɗi e capanɗe nay ; teemedde ɗiɗi e thiapanɗe nay ; teemedde didi e capande nay ; teemede didi e thiapanay,2 × 500 F + 40 × 5 F,ndeye_maguette_officiel,validé
+1225,teemédé ɗiɗi e thiapanay e joy,teemedde ɗiɗi e capanɗe nay e joy ; teemedde ɗiɗi e thiapanɗe nay e joy ; teemedde didi e capande nay e joy ; teemede didi e thiapanay e joy,2 × 500 F + 45 × 5 F,ndeye_maguette_officiel,validé
+1250,teemédé ɗiɗi e thiapanɗe joy,teemedde ɗiɗi e capanɗe joy ; teemedde didi e capande joy ; teemede didi e thiapande joy,2 × 500 F + 50 × 5 F,ndeye_maguette_officiel,validé
+1275,teemédé ɗiɗi e thiapanɗe joy e joy,teemedde ɗiɗi e capanɗe joy e joy ; teemedde didi e capande joy e joy ; teemede didi e thiapande joy e joy,2 × 500 F + 55 × 5 F,ndeye_maguette_officiel,validé
+1300,teemédé ɗiɗi e thiapanɗe jeegom,teemedde ɗiɗi e capanɗe jeegom ; teemedde didi e capande jeegom ; teemede didi e thiapande jeegom,2 × 500 F + 60 × 5 F,ndeye_maguette_officiel,validé
+1325,teemédé ɗiɗi e thiapanɗe jeegom e joy,teemedde ɗiɗi e capanɗe jeegom e joy ; teemedde didi e capande jeegom e joy ; teemede didi e thiapande jeegom e joy,2 × 500 F + 65 × 5 F,ndeye_maguette_officiel,validé
+1350,teemédé ɗiɗi e thiapanɗe jeedidi,teemedde ɗiɗi e capanɗe jeeɗiɗi ; teemedde didi e capande jeedidi ; teemede didi e thiapande jeedidi,2 × 500 F + 70 × 5 F,ndeye_maguette_officiel,validé
+1375,teemédé ɗiɗi e thiapanɗe jeedidi e joy,teemedde ɗiɗi e capanɗe jeeɗiɗi e joy ; teemedde didi e capande jeedidi e joy ; teemede didi e thiapande jeedidi e joy,2 × 500 F + 75 × 5 F,ndeye_maguette_officiel,validé
+1400,teemédé ɗiɗi e thiapanɗe jeetati,teemedde ɗiɗi e capanɗe jeetati ; teemedde didi e capande jeetati ; teemede didi e thiapande jeetati,2 × 500 F + 80 × 5 F,ndeye_maguette_officiel,validé
+1425,teemédé ɗiɗi e thiapanɗe jeetati e joy,teemedde ɗiɗi e capanɗe jeetati e joy ; teemedde didi e capande jeetati e joy ; teemede didi e thiapande jeetati e joy,2 × 500 F + 85 × 5 F,ndeye_maguette_officiel,validé
+1450,teemédé ɗiɗi e thiapanɗe jeenay,teemedde ɗiɗi e capanɗe jeenay ; teemedde didi e capande jeenay ; teemede didi e thiapande jeenay,2 × 500 F + 90 × 5 F,ndeye_maguette_officiel,validé
+1475,teemédé ɗiɗi e thiapanɗe jeenay e joy,teemedde ɗiɗi e capanɗe jeenay e joy ; teemedde didi e capande jeenay e joy ; teemede didi e thiapande jeenay e joy,2 × 500 F + 95 × 5 F,ndeye_maguette_officiel,validé
+1500,teemédé tati,teemedde tati ; teemede tati,3 × 500 F,ndeye_maguette_officiel,validé
+1525,teemédé tati e buuɗi joy,teemédé tati e bu'joy ; teemedde tati e buuɗi joy ; teemedde tati e buudi joy ; teemede tati e buudi joy,3 × 500 F + 5 × 5 F,ndeye_maguette_officiel,validé
+1550,teemédé tati e buuɗi sappo,teemédé tati e bu'sappo ; teemedde tati e buuɗi sappo ; teemedde tati e buudi sappo ; teemede tati e buudi sappo,3 × 500 F + 10 × 5 F,ndeye_maguette_officiel,validé
+1575,teemédé tati e buuɗi sappo e joy,teemédé tati e bu'sappo e joy ; teemedde tati e buuɗi sappo e joy ; teemedde tati e buudi sappo e joy ; teemede tati e buudi sappo e joy,3 × 500 F + 15 × 5 F,ndeye_maguette_officiel,validé
+1600,teemédé tati e nogass,teemedde tati e noogaas ; teemedde tati e noogas ; teemede tati e nogass,3 × 500 F + 20 × 5 F,ndeye_maguette_officiel,validé
+1625,teemédé tati e nogass e joy,teemedde tati e noogaas e joy ; teemedde tati e noogas e joy ; teemede tati e nogass e joy,3 × 500 F + 25 × 5 F,ndeye_maguette_officiel,validé
+1650,teemédé tati e thiapantati,teemedde tati e capanɗe tati ; teemedde tati e thiapanɗe tati ; teemedde tati e capande tati ; teemede tati e thiapantati,3 × 500 F + 30 × 5 F,ndeye_maguette_officiel,validé
+1675,teemédé tati e thiapantati e joy,teemedde tati e capanɗe tati e joy ; teemedde tati e thiapanɗe tati e joy ; teemedde tati e capande tati e joy ; teemede tati e thiapantati e joy,3 × 500 F + 35 × 5 F,ndeye_maguette_officiel,validé
+1700,teemédé tati e thiapanay,teemedde tati e capanɗe nay ; teemedde tati e thiapanɗe nay ; teemedde tati e capande nay ; teemede tati e thiapanay,3 × 500 F + 40 × 5 F,ndeye_maguette_officiel,validé
+1725,teemédé tati e thiapanay e joy,teemedde tati e capanɗe nay e joy ; teemedde tati e thiapanɗe nay e joy ; teemedde tati e capande nay e joy ; teemede tati e thiapanay e joy,3 × 500 F + 45 × 5 F,ndeye_maguette_officiel,validé
+1750,teemédé tati e thiapanɗe joy,teemedde tati e capanɗe joy ; teemedde tati e capande joy ; teemede tati e thiapande joy,3 × 500 F + 50 × 5 F,ndeye_maguette_officiel,validé
+1775,teemédé tati e thiapanɗe joy e joy,teemedde tati e capanɗe joy e joy ; teemedde tati e capande joy e joy ; teemede tati e thiapande joy e joy,3 × 500 F + 55 × 5 F,ndeye_maguette_officiel,validé
+1800,teemédé tati e thiapanɗe jeegom,teemedde tati e capanɗe jeegom ; teemedde tati e capande jeegom ; teemede tati e thiapande jeegom,3 × 500 F + 60 × 5 F,ndeye_maguette_officiel,validé
+1825,teemédé tati e thiapanɗe jeegom e joy,teemedde tati e capanɗe jeegom e joy ; teemedde tati e capande jeegom e joy ; teemede tati e thiapande jeegom e joy,3 × 500 F + 65 × 5 F,ndeye_maguette_officiel,validé
+1850,teemédé tati e thiapanɗe jeedidi,teemedde tati e capanɗe jeeɗiɗi ; teemedde tati e capande jeedidi ; teemede tati e thiapande jeedidi,3 × 500 F + 70 × 5 F,ndeye_maguette_officiel,validé
+1875,teemédé tati e thiapanɗe jeedidi e joy,teemedde tati e capanɗe jeeɗiɗi e joy ; teemedde tati e capande jeedidi e joy ; teemede tati e thiapande jeedidi e joy,3 × 500 F + 75 × 5 F,ndeye_maguette_officiel,validé
+1900,teemédé tati e thiapanɗe jeetati,teemedde tati e capanɗe jeetati ; teemedde tati e capande jeetati ; teemede tati e thiapande jeetati,3 × 500 F + 80 × 5 F,ndeye_maguette_officiel,validé
+1925,teemédé tati e thiapanɗe jeetati e joy,teemedde tati e capanɗe jeetati e joy ; teemedde tati e capande jeetati e joy ; teemede tati e thiapande jeetati e joy,3 × 500 F + 85 × 5 F,ndeye_maguette_officiel,validé
+1950,teemédé tati e thiapanɗe jeenay,teemedde tati e capanɗe jeenay ; teemedde tati e capande jeenay ; teemede tati e thiapande jeenay,3 × 500 F + 90 × 5 F,ndeye_maguette_officiel,validé
+1975,teemédé tati e thiapanɗe jeenay e joy,teemedde tati e capanɗe jeenay e joy ; teemedde tati e capande jeenay e joy ; teemede tati e thiapande jeenay e joy,3 × 500 F + 95 × 5 F,ndeye_maguette_officiel,validé
+2000,teemédé nay,teemedde nay ; teemede nay,4 × 500 F,ndeye_maguette_officiel,validé
+2025,teemédé nay e buuɗi joy,teemédé nay e bu'joy ; teemedde nay e buuɗi joy ; teemedde nay e buudi joy ; teemede nay e buudi joy,4 × 500 F + 5 × 5 F,ndeye_maguette_officiel,validé
+2050,teemédé nay e buuɗi sappo,teemédé nay e bu'sappo ; teemedde nay e buuɗi sappo ; teemedde nay e buudi sappo ; teemede nay e buudi sappo,4 × 500 F + 10 × 5 F,ndeye_maguette_officiel,validé
+2075,teemédé nay e buuɗi sappo e joy,teemédé nay e bu'sappo e joy ; teemedde nay e buuɗi sappo e joy ; teemedde nay e buudi sappo e joy ; teemede nay e buudi sappo e joy,4 × 500 F + 15 × 5 F,ndeye_maguette_officiel,validé
+2100,teemédé nay e nogass,teemedde nay e noogaas ; teemedde nay e noogas ; teemede nay e nogass,4 × 500 F + 20 × 5 F,ndeye_maguette_officiel,validé
+2125,teemédé nay e nogass e joy,teemedde nay e noogaas e joy ; teemedde nay e noogas e joy ; teemede nay e nogass e joy,4 × 500 F + 25 × 5 F,ndeye_maguette_officiel,validé
+2150,teemédé nay e thiapantati,teemedde nay e capanɗe tati ; teemedde nay e thiapanɗe tati ; teemedde nay e capande tati ; teemede nay e thiapantati,4 × 500 F + 30 × 5 F,ndeye_maguette_officiel,validé
+2175,teemédé nay e thiapantati e joy,teemedde nay e capanɗe tati e joy ; teemedde nay e thiapanɗe tati e joy ; teemedde nay e capande tati e joy ; teemede nay e thiapantati e joy,4 × 500 F + 35 × 5 F,ndeye_maguette_officiel,validé
+2200,teemédé nay e thiapanay,teemedde nay e capanɗe nay ; teemedde nay e thiapanɗe nay ; teemedde nay e capande nay ; teemede nay e thiapanay,4 × 500 F + 40 × 5 F,ndeye_maguette_officiel,validé
+2225,teemédé nay e thiapanay e joy,teemedde nay e capanɗe nay e joy ; teemedde nay e thiapanɗe nay e joy ; teemedde nay e capande nay e joy ; teemede nay e thiapanay e joy,4 × 500 F + 45 × 5 F,ndeye_maguette_officiel,validé
+2250,teemédé nay e thiapanɗe joy,teemedde nay e capanɗe joy ; teemedde nay e capande joy ; teemede nay e thiapande joy,4 × 500 F + 50 × 5 F,ndeye_maguette_officiel,validé
+2275,teemédé nay e thiapanɗe joy e joy,teemedde nay e capanɗe joy e joy ; teemedde nay e capande joy e joy ; teemede nay e thiapande joy e joy,4 × 500 F + 55 × 5 F,ndeye_maguette_officiel,validé
+2300,teemédé nay e thiapanɗe jeegom,teemedde nay e capanɗe jeegom ; teemedde nay e capande jeegom ; teemede nay e thiapande jeegom,4 × 500 F + 60 × 5 F,ndeye_maguette_officiel,validé
+2325,teemédé nay e thiapanɗe jeegom e joy,teemedde nay e capanɗe jeegom e joy ; teemedde nay e capande jeegom e joy ; teemede nay e thiapande jeegom e joy,4 × 500 F + 65 × 5 F,ndeye_maguette_officiel,validé
+2350,teemédé nay e thiapanɗe jeedidi,teemedde nay e capanɗe jeeɗiɗi ; teemedde nay e capande jeedidi ; teemede nay e thiapande jeedidi,4 × 500 F + 70 × 5 F,ndeye_maguette_officiel,validé
+2375,teemédé nay e thiapanɗe jeedidi e joy,teemedde nay e capanɗe jeeɗiɗi e joy ; teemedde nay e capande jeedidi e joy ; teemede nay e thiapande jeedidi e joy,4 × 500 F + 75 × 5 F,ndeye_maguette_officiel,validé
+2400,teemédé nay e thiapanɗe jeetati,teemedde nay e capanɗe jeetati ; teemedde nay e capande jeetati ; teemede nay e thiapande jeetati,4 × 500 F + 80 × 5 F,ndeye_maguette_officiel,validé
+2425,teemédé nay e thiapanɗe jeetati e joy,teemedde nay e capanɗe jeetati e joy ; teemedde nay e capande jeetati e joy ; teemede nay e thiapande jeetati e joy,4 × 500 F + 85 × 5 F,ndeye_maguette_officiel,validé
+2450,teemédé nay e thiapanɗe jeenay,teemedde nay e capanɗe jeenay ; teemedde nay e capande jeenay ; teemede nay e thiapande jeenay,4 × 500 F + 90 × 5 F,ndeye_maguette_officiel,validé
+2475,teemédé nay e thiapanɗe jeenay e joy,teemedde nay e capanɗe jeenay e joy ; teemedde nay e capande jeenay e joy ; teemede nay e thiapande jeenay e joy,4 × 500 F + 95 × 5 F,ndeye_maguette_officiel,validé
+2500,teemédé joy,teemedde joy ; teemede joy,5 × 500 F,ndeye_maguette_officiel,validé
+10000,ujunaajé ɗiɗi,ujunaaje ɗiɗi ; ujunaaje didi,2 × 5 000 F,ndeye_maguette_officiel,validé
+20000,ujunaajé nay,ujunaaje nay,4 × 5 000 F,ndeye_maguette_officiel,validé
+30000,ujunaajé jeegom,ujunaaje jeegom,6 × 5 000 F,ndeye_maguette_officiel,validé
+40000,ujunaajé jeetati,ujunaaje jeetati,8 × 5 000 F,ndeye_maguette_officiel,validé
+50000,ujunaajé sappo,ujunaaje sappo,10 × 5 000 F,ndeye_maguette_officiel,validé
+60000,ujunaajé sappo e ɗiɗi,ujunaaje sappo e ɗiɗi ; ujunaaje sappo e didi,12 × 5 000 F,ndeye_maguette_officiel,validé
+70000,ujunaajé sappo e nay,ujunaaje sappo e nay,14 × 5 000 F,ndeye_maguette_officiel,validé
+80000,ujunaajé sappo e jeegom,ujunaaje sappo e jeegom,16 × 5 000 F,ndeye_maguette_officiel,validé
+90000,ujunaajé sappo e jeetati,ujunaaje sappo e jeetati,18 × 5 000 F,ndeye_maguette_officiel,validé
+100000,ujunaajé nogass,ujunaaje noogaas ; ujunaaje noogas ; ujunaaje nogass,20 × 5 000 F,ndeye_maguette_officiel,validé
+150000,thiapantati ujunéré,ujunaajé thiapanɗe tati ; capanɗe tati ujunere ; thiapanɗe tati ujunere ; capande tati ujunere ; thiapantati ujunere,30 × 5 000 F,ndeye_maguette_officiel,validé

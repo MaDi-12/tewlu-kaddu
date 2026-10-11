@@ -79,3 +79,4 @@ nlp/data/conversations*.jsonl
 nlp/data/conversations*_annotations.csv
 nlp/data/conversations*.jsonl
 nlp/data/conversations*_annotations.csv
+nlp/data/telegram/

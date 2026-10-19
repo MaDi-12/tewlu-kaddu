@@ -49,7 +49,7 @@ _device = {"value": None}
 def _get_device():
     if _device["value"] is None:
         import torch
-        _device["value"] = "mps" if torch.backends.mps.is_available() else "cpu"
+        _device["value"] = "cuda" if torch.cuda.is_available() else ("mps" if torch.backends.mps.is_available() else "cpu")
     return _device["value"]
 
 
@@ -95,7 +95,7 @@ def get_asr(model_id: str):
         print(f"Loading ASR model {model_id}...")
         path = snapshot_download(repo_id=model_id, token=os.environ.get("HF_TOKEN"))
         processor = WhisperProcessor.from_pretrained(path)
-        dtype = torch.float16 if _get_device() == "mps" else torch.float32
+        dtype = torch.float16 if _get_device() in ("mps", "cuda") else torch.float32
         model = WhisperForConditionalGeneration.from_pretrained(path, torch_dtype=dtype).to(_get_device())
         model.eval()
         _asr.update(id=model_id, processor=processor, model=model)
@@ -106,7 +106,7 @@ def transcribe(processor, model, audio, language: str | None) -> str:
     import torch
 
     device = _get_device()
-    dtype = torch.float16 if device == "mps" else torch.float32
+    dtype = torch.float16 if device in ("mps", "cuda") else torch.float32
 
     decoder_input_ids = None
     if language:

@@ -1,0 +1,26 @@
+date,source,message_initial,modele,intention,nb_articles,produits_reconnus,produits_proches,produits_nouveaux,controle_montant,champs_incertains,nb_messages_commercant,nb_corrections,nb_complements,issue,duree_llm_s,langue
+2026-10-11T13:54:12,equipe/equipe_wo_20261011_135025.wav,moo du amal na ma fi 2 kilos mboulok ak 1 kilo ripas,google/gemini-3.5-flash-lite,vente,1,1,0,0,lecture_ok,,5,1,2,enregistre,11.6,wo
+2026-10-11T13:54:37,equipe/equipe_wo_20261011_135420.wav,dindil li nga bënd daa laajte,google/gemini-3.5-flash-lite,annulation,0,0,0,0,non_verifiable,,2,0,0,annulation_faite,1.5,wo
+2026-10-11T13:56:07,equipe/equipe_wo_20261011_135451.wav,moo du moo fileb 450 ci mboulou,google/gemini-3.5-flash-lite,vente_credit,1,0,1,0,lecture_ok,,4,1,0,enregistre,4.7,wo
+2026-10-11T23:04:20,equipe/equipe_wo_20261011_230150.wav,waaw na nga def dama la buggoon wax ko malick jënd na 5 kilos patates dafa ko leb,google/gemini-3.5-flash-lite,vente_credit,1,0,1,0,lecture_ok,,5,1,1,enregistre,7.4,wo
+2026-10-11T23:05:01,equipe/equipe_wo_20261011_230453.wav,dama bëggoon xam malick ñatt la mu yàggal ci bor,google/gemini-3.5-flash-lite,question_dette,0,0,0,0,non_verifiable,,1,0,0,question,1.6,wo
+2026-10-11T23:09:13,equipe/equipe_ff_20261011_230743.wav,a jaaraama malick a riiku boutique o soodii kilo joyi pomme de terre yi moo joganii di goulou dé diop,google/gemini-3.5-flash-lite,vente_credit,1,1,0,0,lecture_ok,,4,0,2,enregistre,6.7,ff
+2026-10-11T23:09:46,scenario,Mi soodi saakuji sappo maaro,google/gemini-3.5-flash-lite,achat,1,1,0,0,non_verifiable,,2,0,0,enregistre,2.1,ff
+2026-10-11T23:10:57,equipe/equipe_wo_20261011_231035.wav,malick ndiaye sànq la ñëw ci boutique bi jënd ñaari potu poobar te daf ko leb potu poobar yi 500f,google/gemini-3.5-flash-lite,vente_credit,1,0,0,1,non_verifiable,,2,0,0,enregistre,2.0,wo
+2026-10-11T23:11:26,equipe/equipe_wo_20261011_231117.wav,dama bëggoon xam malick ñatt la may def,google/gemini-3.5-flash-lite,question_dette,0,0,0,0,non_verifiable,,1,0,0,question,2.3,wo
+2026-10-11T23:11:50,equipe/equipe_wo_20261011_231143.wav,ok malick diop moom ñaata la mooyare,google/gemini-3.5-flash-lite,question_dette,0,0,0,0,non_verifiable,,1,0,0,question,1.6,wo
+2026-10-11T23:12:16,equipe/equipe_wo_20261011_231208.wav,malick ndiaye nak,google/gemini-3.5-flash-lite,incomprehension,0,0,0,0,non_verifiable,intention,1,0,0,incomprehension,2.1,wo
+2026-10-11T23:12:37,equipe/equipe_wo_20261011_231229.wav,malick ndiaye ñaata la ma yoral ci moom,google/gemini-3.5-flash-lite,question_dette,0,0,0,0,non_verifiable,,1,0,0,question,2.3,wo
+2026-10-13T20:03:58,equipe/equipe_wo_20261013_200331.wav,awa jënd na ñaari paketu suukar ñetti junni daf ko leb,google/gemini-3.5-flash-lite,vente_credit,1,1,0,0,lecture_ok,,2,0,0,enregistre,4.7,wo
+2026-10-13T20:05:09,equipe/equipe_wo_20261013_200500.wav,xam combien awa mat doi,google/gemini-3.5-flash-lite,question_dette,0,0,0,0,non_verifiable,,1,0,0,question,3.4,wo
+2026-10-13T20:06:22,equipe/equipe_wo_20261013_200606.wav,dama jom awa ñaari junni la ma yoral suukar bi paketu suukari ñaari junni la,google/gemini-3.5-flash-lite,vente_credit,1,1,0,0,corrige_par_regles,,2,0,0,enregistre,3.0,wo
+2026-10-13T20:06:46,equipe/equipe_wo_20261013_200637.wav,awa ñattala mayu ren,google/gemini-3.5-flash-lite,question_dette,0,0,0,0,non_verifiable,,1,0,0,question,3.3,wo
+2026-10-13T22:52:10,equipe/equipe_wo_20261013_225201.wav,le maire de fann,google/gemini-3.5-flash-lite,incomprehension,0,0,0,0,non_verifiable,"intention, articles, montant",1,0,0,incomprehension,3.1,wo
+2026-10-13T22:52:41,equipe/equipe_wo_20261013_225232.wav,le maire de fann,google/gemini-3.5-flash-lite,incomprehension,0,0,0,0,non_verifiable,"intention, articles, montant",1,0,0,incomprehension,2.5,wo
+2026-10-13T22:53:48,equipe/equipe_wo_20261013_225340.wav,le maire de fann,google/gemini-3.5-flash-lite,incomprehension,0,0,0,0,non_verifiable,"intention, articles",1,0,0,incomprehension,3.0,wo
+2026-10-13T22:54:15,equipe/equipe_wo_20261013_225406.wav,waaw na nga def duma bëggoon xam awa ñaata la maya dem,google/gemini-3.5-flash-lite,question_dette,0,0,0,0,non_verifiable,,1,0,0,question,2.3,wo
+2026-10-16T12:06:35,equipe/equipe_wo_20261016_120622.wav,macha allah macha allah ala men merci fra beaucoup fra aɗa anndi aɗa anndi aɗa anndi a waa yo allah waɗan ene yaqwaa,google/gemini-3.5-flash-lite,incomprehension,0,0,0,0,non_verifiable,intention,1,0,0,incomprehension,4.1,wo
+2026-10-16T12:07:00,equipe/equipe_wo_20261016_120650.wav,innde e mum hakkille rafetluɗo e ɗum njaaraama a jaaraama ɗum ne waɗi,google/gemini-3.5-flash-lite,incomprehension,0,0,0,0,non_verifiable,intention,1,0,0,incomprehension,3.0,wo
+2026-10-16T12:07:28,equipe/equipe_wo_20261016_120720.wav,yaw yaoram roi senegal,google/gemini-3.5-flash-lite,incomprehension,0,0,0,0,non_verifiable,"intention, articles",1,0,0,incomprehension,1.8,wo
+2026-10-16T12:09:34,equipe/equipe_wo_20261016_120924.wav,asalaamaaleykum asalaamaaleykum fatim maa moƴo ret diimeen,google/gemini-3.5-flash-lite,incomprehension,0,0,0,0,non_verifiable,"intention, articles",1,0,0,incomprehension,3.3,wo
+2026-10-18T03:24:57,equipe/equipe_wo_20261018_032447.wav,not moin sa dépense il te plaie 1500 yët,google/gemini-3.5-flash-lite,depense,0,0,0,0,lecture_ok,,1,0,0,pas_disponible,4.3,wo

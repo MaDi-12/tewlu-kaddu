@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "modele": "google/gemini-3.5-flash-lite",
+  "langue": "ff",
+  "source": "telegram",
+  "secours": "wo",
+  "etat": "termine",
+  "extraction": {
+    "type_reponse": "premier_message",
+    "intention": "incomprehension",
+    "client": null,
+    "articles": [],
+    "montant_fcfa": null,
+    "montant_tel_que_dit": null,
+    "champs_incertains": [
+      "intention"
+    ],
+    "traduction_fr": "Je ne comprends pas ce message."
+  },
+  "controle": {
+    "articles": [],
+    "controle_montant": {
+      "statut": "non_verifiable",
+      "montants_regles": [],
+      "somme_des_prix": null,
+      "montant_retenu": null,
+      "origine_montant": null
+    }
+  },
+  "messages_commercant": [
+    "Gnata mo nek ci sama kalpé"
+  ],
+  "historique": [
+    {
+      "role": "commercant",
+      "texte": "Gnata mo nek ci sama kalpé",
+      "details": {}
+    },
+    {
+      "role": "kaddu",
+      "texte": "Mi faamaani. Wi'tu ?",
+      "details": {
+        "modele_reponse": "incomprehension",
+        "langue_phrase": "ff",
+        "llm": {
+          "type_reponse": "premier_message",
+          "intention": "incomprehension",
+          "client": null,
+          "articles": [],
+          "montant_fcfa": null,
+          "montant_tel_que_dit": null,
+          "champs_incertains": [
+            "intention"
+          ],
+          "traduction_fr": "Je ne comprends pas ce message."
+        },
+        "atlas": {
+          "articles": [],
+          "controle_montant": {
+            "statut": "non_verifiable",
+            "montants_regles": [],
+            "somme_des_prix": null,
+            "montant_retenu": null,
+            "origine_montant": null
+          }
+        }
+      }
+    }
+  ],
+  "nb_corrections": 0,
+  "nb_complements": 0,
+  "duree_llm": 2.5426697731018066,
+  "mots_acceptes": {},
+  "mots_refuses": [],
+  "mots_ecrits": [],
+  "repetition_demandee": false,
+  "question_en_cours": {},
+  "operation_a_effacer": null,
+  "operation_id": null,
+  "issue": "incomprehension",
+  "debut": "2026-10-11T19:33:42",
+  "derniere_activite": "2026-10-11T19:33:42"
+}

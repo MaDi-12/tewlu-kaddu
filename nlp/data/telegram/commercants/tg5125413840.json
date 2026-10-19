@@ -1,0 +1,52 @@
+{
+  "operations": [
+    {
+      "id": 1,
+      "date": "2026-10-11T14:19:44",
+      "langue": "ff",
+      "intention": "vente",
+      "client": "faatu",
+      "montant_fcfa": 100,
+      "montant_tel_que_dit": null,
+      "controle_montant": "non_verifiable",
+      "transcription": "faatu soodi paketa go sukkal noogas | eey | allah faatu soodi paquet ta suukara | nogaas | allah fatu soodi suukara",
+      "modele": "google/gemini-3.5-flash-lite",
+      "nb_corrections": 1,
+      "statut": "active",
+      "articles": [
+        {
+          "produit_dit": "suukara",
+          "produit": "Sucre",
+          "statut_produit": "reconnu",
+          "quantite": 1.0,
+          "unite": "Paquet",
+          "prix_fcfa": 100.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2026-10-11T14:22:09",
+      "langue": "ff",
+      "intention": "vente_credit",
+      "client": "fatou",
+      "montant_fcfa": 1000,
+      "montant_tel_que_dit": "1000fr",
+      "controle_montant": "lecture_ok",
+      "transcription": "faatu sogi paketa suukara nogaas | 1000fr fatou sogui paketa sukara 1000fr | eey",
+      "modele": "google/gemini-3.5-flash-lite",
+      "nb_corrections": 0,
+      "statut": "active",
+      "articles": [
+        {
+          "produit_dit": "sukara",
+          "produit": "Sucre",
+          "statut_produit": "reconnu",
+          "quantite": 1.0,
+          "unite": "Paquet",
+          "prix_fcfa": null
+        }
+      ]
+    }
+  ]
+}

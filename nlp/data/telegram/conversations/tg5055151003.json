@@ -1,0 +1,387 @@
+{
+  "version": 1,
+  "modele": "google/gemini-3.5-flash-lite",
+  "langue": "wo",
+  "source": "telegram",
+  "secours": "wo",
+  "etat": "confirmer",
+  "extraction": {
+    "type_reponse": "corrige",
+    "intention": "vente_credit",
+    "client": "usmaan",
+    "articles": [
+      {
+        "produit_tel_que_dit": "suukar",
+        "sens_fr": "sucre",
+        "quantite": 3.0,
+        "unite": "kilos",
+        "prix_fcfa": 1500,
+        "prix_tel_que_dit": "1500",
+        "prix_par_unite": true
+      },
+      {
+        "produit_tel_que_dit": "ceeb",
+        "sens_fr": "riz",
+        "quantite": 2.0,
+        "unite": "sako",
+        "prix_fcfa": null,
+        "prix_tel_que_dit": null,
+        "prix_par_unite": false
+      }
+    ],
+    "montant_fcfa": 50000,
+    "montant_tel_que_dit": "50000",
+    "champs_incertains": [],
+    "traduction_fr": "Non, j'ai dit que c'est Abdu qui a acheté le sucre et le riz, mais c'est à Usmaan que j'ai fait crédit."
+  },
+  "controle": {
+    "articles": [
+      {
+        "produit_dit": "suukar",
+        "sens_fr": "sucre",
+        "quantite": 3.0,
+        "unite_dite": "kilos",
+        "produit": "Sucre",
+        "statut_produit": "reconnu",
+        "suggestion_produit": null,
+        "suggestion_forme_produit": null,
+        "unite": "kilos",
+        "statut_unite": "proche",
+        "suggestion_unite": "Kilo",
+        "suggestion_forme_unite": "kilo",
+        "prix_fcfa": 1500,
+        "prix_dit": "1500",
+        "prix_par_unite": true,
+        "controle_prix": "lecture_ok",
+        "montant_ligne": 4500.0
+      },
+      {
+        "produit_dit": "ceeb",
+        "sens_fr": "riz",
+        "quantite": 2.0,
+        "unite_dite": "sako",
+        "produit": "Riz",
+        "statut_produit": "reconnu",
+        "suggestion_produit": null,
+        "suggestion_forme_produit": null,
+        "unite": "sako",
+        "statut_unite": "proche",
+        "suggestion_unite": "Sac",
+        "suggestion_forme_unite": "saag",
+        "prix_fcfa": null,
+        "prix_dit": null,
+        "prix_par_unite": false,
+        "controle_prix": null,
+        "montant_ligne": null
+      }
+    ],
+    "controle_montant": {
+      "statut": "lecture_ok",
+      "montants_regles": [
+        50000
+      ],
+      "somme_des_prix": null,
+      "montant_retenu": 50000,
+      "origine_montant": "total_dit"
+    }
+  },
+  "messages_commercant": [
+    "e damay damay tàmbali boutique bu bees am na yu ma jaayegum jaay na ñetti kilos suukar e faatu kilo bu nekk 1500 après di jaay ñaari sako ceeb abdu e lépp lépp 50000 la ko jaayee lebal na crédit 10000 lebal naa crédit dix mille francs usine",
+    "abdu dafa jënd abdu dafa jënd suukar bi waaye usmaan moom dama koo lebal crédit bi",
+    "déedéet dama ni abdu moom dafa jënd dafa jënd suukar bi dafa jënd ceeb bi waaye usmaan moom dama ko lebal crédit bi"
+  ],
+  "historique": [
+    {
+      "role": "commercant",
+      "texte": "e damay damay tàmbali boutique bu bees am na yu ma jaayegum jaay na ñetti kilos suukar e faatu kilo bu nekk 1500 après di jaay ñaari sako ceeb abdu e lépp lépp 50000 la ko jaayee lebal na crédit 10000 lebal naa crédit dix mille francs usine",
+      "details": {}
+    },
+    {
+      "role": "kaddu",
+      "texte": "Abdu dafa léeb trois kilos suukar mille cinq cents francs ak deux sako ceeb lu toolok cinquante mille francs, maanaam fukki junni. Waaw walla déet ?",
+      "details": {
+        "modele_reponse": "confirmer_vente_credit",
+        "langue_phrase": "wo",
+        "llm": {
+          "type_reponse": "premier_message",
+          "intention": "vente_credit",
+          "client": "abdu",
+          "articles": [
+            {
+              "produit_tel_que_dit": "suukar",
+              "sens_fr": "sucre",
+              "quantite": 3.0,
+              "unite": "kilos",
+              "prix_fcfa": 1500,
+              "prix_tel_que_dit": "1500",
+              "prix_par_unite": true
+            },
+            {
+              "produit_tel_que_dit": "ceeb",
+              "sens_fr": "riz",
+              "quantite": 2.0,
+              "unite": "sako",
+              "prix_fcfa": null,
+              "prix_tel_que_dit": null,
+              "prix_par_unite": false
+            }
+          ],
+          "montant_fcfa": 50000,
+          "montant_tel_que_dit": "50000",
+          "champs_incertains": [],
+          "traduction_fr": "Je commence une nouvelle boutique, j'ai vendu 3 kilos de sucre à 1500 le kilo à Faatu, et j'ai vendu 2 sacs de riz à Abdu pour un total de 50000, il a pris 10000 à crédit."
+        },
+        "atlas": {
+          "articles": [
+            {
+              "produit_dit": "suukar",
+              "sens_fr": "sucre",
+              "quantite": 3.0,
+              "unite_dite": "kilos",
+              "produit": "Sucre",
+              "statut_produit": "reconnu",
+              "suggestion_produit": null,
+              "suggestion_forme_produit": null,
+              "unite": "kilos",
+              "statut_unite": "proche",
+              "suggestion_unite": "Kilo",
+              "suggestion_forme_unite": "kilo",
+              "prix_fcfa": 1500,
+              "prix_dit": "1500",
+              "prix_par_unite": true,
+              "controle_prix": "lecture_ok",
+              "montant_ligne": 4500.0
+            },
+            {
+              "produit_dit": "ceeb",
+              "sens_fr": "riz",
+              "quantite": 2.0,
+              "unite_dite": "sako",
+              "produit": "Riz",
+              "statut_produit": "reconnu",
+              "suggestion_produit": null,
+              "suggestion_forme_produit": null,
+              "unite": "sako",
+              "statut_unite": "proche",
+              "suggestion_unite": "Sac",
+              "suggestion_forme_unite": "saag",
+              "prix_fcfa": null,
+              "prix_dit": null,
+              "prix_par_unite": false,
+              "controle_prix": null,
+              "montant_ligne": null
+            }
+          ],
+          "controle_montant": {
+            "statut": "lecture_ok",
+            "montants_regles": [
+              50000
+            ],
+            "somme_des_prix": null,
+            "montant_retenu": 50000,
+            "origine_montant": "total_dit"
+          }
+        }
+      }
+    },
+    {
+      "role": "commercant",
+      "texte": "abdu dafa jënd abdu dafa jënd suukar bi waaye usmaan moom dama koo lebal crédit bi",
+      "details": {}
+    },
+    {
+      "role": "kaddu",
+      "texte": "Usmaan dafa léeb trois kilos suukar mille cinq cents francs ak deux sako ceeb lu toolok cinquante mille francs, maanaam fukki junni. Waaw walla déet ?",
+      "details": {
+        "modele_reponse": "confirmer_vente_credit",
+        "langue_phrase": "wo",
+        "llm": {
+          "type_reponse": "corrige",
+          "intention": "vente_credit",
+          "client": "usmaan",
+          "articles": [
+            {
+              "produit_tel_que_dit": "suukar",
+              "sens_fr": "sucre",
+              "quantite": 3.0,
+              "unite": "kilos",
+              "prix_fcfa": 1500,
+              "prix_tel_que_dit": "1500",
+              "prix_par_unite": true
+            },
+            {
+              "produit_tel_que_dit": "ceeb",
+              "sens_fr": "riz",
+              "quantite": 2.0,
+              "unite": "sako",
+              "prix_fcfa": null,
+              "prix_tel_que_dit": null,
+              "prix_par_unite": false
+            }
+          ],
+          "montant_fcfa": 50000,
+          "montant_tel_que_dit": "50000",
+          "champs_incertains": [],
+          "traduction_fr": "C'est Abdu qui a acheté le sucre, mais c'est Usmaan à qui j'ai fait crédit."
+        },
+        "atlas": {
+          "articles": [
+            {
+              "produit_dit": "suukar",
+              "sens_fr": "sucre",
+              "quantite": 3.0,
+              "unite_dite": "kilos",
+              "produit": "Sucre",
+              "statut_produit": "reconnu",
+              "suggestion_produit": null,
+              "suggestion_forme_produit": null,
+              "unite": "kilos",
+              "statut_unite": "proche",
+              "suggestion_unite": "Kilo",
+              "suggestion_forme_unite": "kilo",
+              "prix_fcfa": 1500,
+              "prix_dit": "1500",
+              "prix_par_unite": true,
+              "controle_prix": "lecture_ok",
+              "montant_ligne": 4500.0
+            },
+            {
+              "produit_dit": "ceeb",
+              "sens_fr": "riz",
+              "quantite": 2.0,
+              "unite_dite": "sako",
+              "produit": "Riz",
+              "statut_produit": "reconnu",
+              "suggestion_produit": null,
+              "suggestion_forme_produit": null,
+              "unite": "sako",
+              "statut_unite": "proche",
+              "suggestion_unite": "Sac",
+              "suggestion_forme_unite": "saag",
+              "prix_fcfa": null,
+              "prix_dit": null,
+              "prix_par_unite": false,
+              "controle_prix": null,
+              "montant_ligne": null
+            }
+          ],
+          "controle_montant": {
+            "statut": "lecture_ok",
+            "montants_regles": [
+              50000
+            ],
+            "somme_des_prix": null,
+            "montant_retenu": 50000,
+            "origine_montant": "total_dit"
+          }
+        }
+      }
+    },
+    {
+      "role": "commercant",
+      "texte": "déedéet dama ni abdu moom dafa jënd dafa jënd suukar bi dafa jënd ceeb bi waaye usmaan moom dama ko lebal crédit bi",
+      "details": {}
+    },
+    {
+      "role": "kaddu",
+      "texte": "Usmaan dafa léeb trois kilos suukar mille cinq cents francs ak deux sako ceeb lu toolok cinquante mille francs, maanaam fukki junni. Waaw walla déet ?",
+      "details": {
+        "modele_reponse": "confirmer_vente_credit",
+        "langue_phrase": "wo",
+        "llm": {
+          "type_reponse": "corrige",
+          "intention": "vente_credit",
+          "client": "usmaan",
+          "articles": [
+            {
+              "produit_tel_que_dit": "suukar",
+              "sens_fr": "sucre",
+              "quantite": 3.0,
+              "unite": "kilos",
+              "prix_fcfa": 1500,
+              "prix_tel_que_dit": "1500",
+              "prix_par_unite": true
+            },
+            {
+              "produit_tel_que_dit": "ceeb",
+              "sens_fr": "riz",
+              "quantite": 2.0,
+              "unite": "sako",
+              "prix_fcfa": null,
+              "prix_tel_que_dit": null,
+              "prix_par_unite": false
+            }
+          ],
+          "montant_fcfa": 50000,
+          "montant_tel_que_dit": "50000",
+          "champs_incertains": [],
+          "traduction_fr": "Non, j'ai dit que c'est Abdu qui a acheté le sucre et le riz, mais c'est à Usmaan que j'ai fait crédit."
+        },
+        "atlas": {
+          "articles": [
+            {
+              "produit_dit": "suukar",
+              "sens_fr": "sucre",
+              "quantite": 3.0,
+              "unite_dite": "kilos",
+              "produit": "Sucre",
+              "statut_produit": "reconnu",
+              "suggestion_produit": null,
+              "suggestion_forme_produit": null,
+              "unite": "kilos",
+              "statut_unite": "proche",
+              "suggestion_unite": "Kilo",
+              "suggestion_forme_unite": "kilo",
+              "prix_fcfa": 1500,
+              "prix_dit": "1500",
+              "prix_par_unite": true,
+              "controle_prix": "lecture_ok",
+              "montant_ligne": 4500.0
+            },
+            {
+              "produit_dit": "ceeb",
+              "sens_fr": "riz",
+              "quantite": 2.0,
+              "unite_dite": "sako",
+              "produit": "Riz",
+              "statut_produit": "reconnu",
+              "suggestion_produit": null,
+              "suggestion_forme_produit": null,
+              "unite": "sako",
+              "statut_unite": "proche",
+              "suggestion_unite": "Sac",
+              "suggestion_forme_unite": "saag",
+              "prix_fcfa": null,
+              "prix_dit": null,
+              "prix_par_unite": false,
+              "controle_prix": null,
+              "montant_ligne": null
+            }
+          ],
+          "controle_montant": {
+            "statut": "lecture_ok",
+            "montants_regles": [
+              50000
+            ],
+            "somme_des_prix": null,
+            "montant_retenu": 50000,
+            "origine_montant": "total_dit"
+          }
+        }
+      }
+    }
+  ],
+  "nb_corrections": 2,
+  "nb_complements": 0,
+  "duree_llm": 11.481486082077026,
+  "mots_acceptes": {},
+  "mots_refuses": [],
+  "mots_ecrits": [],
+  "repetition_demandee": false,
+  "question_en_cours": {},
+  "operation_a_effacer": null,
+  "operation_id": null,
+  "issue": null,
+  "debut": "2026-10-14T16:12:30",
+  "derniere_activite": "2026-10-14T16:16:05"
+}

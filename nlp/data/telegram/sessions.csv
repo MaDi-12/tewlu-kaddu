@@ -1,0 +1,9 @@
+date,source,message_initial,modele,intention,nb_articles,produits_reconnus,produits_proches,produits_nouveaux,controle_montant,champs_incertains,nb_messages_commercant,nb_corrections,nb_complements,issue,duree_llm_s,langue
+2026-10-11T13:51:58,telegram,ñaata moo nekk ci sama kalpe bi,google/gemini-3.5-flash-lite,question_bilan,0,0,0,0,non_verifiable,,1,0,0,question,1.7,wo
+2026-10-11T13:58:43,telegram,jikkam xar baxay no gas,google/gemini-3.5-flash-lite,incomprehension,0,0,0,0,non_verifiable,"intention, articles",1,0,0,incomprehension,1.6,ff
+2026-10-11T14:19:44,telegram,faatu soodi paketa go sukkal noogas,google/gemini-3.5-flash-lite,vente,1,1,0,0,non_verifiable,,5,1,1,enregistre,9.3,ff
+2026-10-11T14:20:24,telegram,combien me doit fatu?,google/gemini-3.5-flash-lite,question_dette,0,0,0,0,non_verifiable,,1,0,0,question,1.7,ff
+2026-10-11T14:22:09,telegram,faatu sogi paketa suukara nogaas,google/gemini-3.5-flash-lite,vente_credit,1,1,0,0,lecture_ok,,3,0,1,enregistre,5.2,ff
+2026-10-11T14:22:24,telegram,combien me doit fatu?,google/gemini-3.5-flash-lite,question_dette,0,0,0,0,non_verifiable,,1,0,0,question,2.6,ff
+2026-10-11T14:22:54,telegram,combien me doit Fatou,google/gemini-3.5-flash-lite,question_dette,0,0,0,0,non_verifiable,,1,0,0,question,1.4,ff
+2026-10-11T19:33:45,telegram,Gnata mo nek ci sama kalpé,google/gemini-3.5-flash-lite,incomprehension,0,0,0,0,non_verifiable,intention,1,0,0,incomprehension,2.5,ff
